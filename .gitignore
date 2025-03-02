@@ -1,30 +1,20 @@
-# Ignore Python cache files
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
+#JS ignore files
 
-# Ignore environment folders
-venv/
-env/
-*.env
+# Node Modules
+node_modules
 
-# Ignore logs and system files
-*.log
+# Build files
+dist
+
+# Logs
+logs
+
+# Environment variables
+.env
+
+# IDE files
+.vscode
+
+# OS files
 .DS_Store
-Thumbs.db
 
-# Ignore dependency caches
-pip-log.txt
-pip-delete-this-directory.txt
-
-# Ignore IDE/editor specific files
-.vscode/
-.idea/
-*.swp
-*.swo
-*.swn
-
-
-# Ignore GitHub Actions temporary files
-.github/workflows/*.log
