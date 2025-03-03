@@ -19,7 +19,7 @@ jobs:
           node-version: "22"
 
       - name: Run calendar generator
-        run: node scripts/generate-calendar.js
+        run: node scripts/generate_ics.js
 
       - name: Commit and push if changes
         run: |
