@@ -22,8 +22,10 @@ jobs:
         run: node scripts/generate_ics.js
 
       - name: Commit and push if changes
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions@github.com'
           git add events.json events.ics
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update calendar files" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update calendar files" && git push https://x-access-token:${GH_PAT}@github.com/jonamarkin/ose-calendar.git main)
