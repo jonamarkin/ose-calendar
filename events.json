@@ -2,8 +2,8 @@
   {
     "name": "Try! Swift x AI Singapore",
     "url": "https://www.tryswift.co/world/",
-    "start_date": "2025-01-17",
-    "end_date": "2025-01-19",
+    "start_date": "2025-01-18",
+    "end_date": "2025-01-20",
     "mode": "In-person",
     "location": "Singapore",
     "original_date": "18th - 19th January"
@@ -11,8 +11,8 @@
   {
     "name": "Everything Open",
     "url": "https://2025.everythingopen.au/",
-    "start_date": "2025-01-19",
-    "end_date": "2025-01-22",
+    "start_date": "2025-01-20",
+    "end_date": "2025-01-23",
     "mode": "In-person",
     "location": "Adelaide, Australia",
     "original_date": "20th - 22nd January"
@@ -20,8 +20,8 @@
   {
     "name": "EU Open Source Policy Summit",
     "url": "https://openforumeurope.org/event/eu-open-source-policy-summit/",
-    "start_date": "2025-01-30",
-    "end_date": "2025-01-31",
+    "start_date": "2025-01-31",
+    "end_date": "2025-02-01",
     "mode": "Online",
     "location": "Brussels, Belgium",
     "original_date": "31st January, 2025"
@@ -29,8 +29,8 @@
   {
     "name": "FOSDEM",
     "url": "https://fosdem.org/2025/",
-    "start_date": "2025-01-31",
-    "end_date": "2025-02-02",
+    "start_date": "2025-02-01",
+    "end_date": "2025-02-03",
     "mode": "In-person",
     "location": "Brussels, Belgium",
     "original_date": "1st - 2nd February"
@@ -38,8 +38,8 @@
   {
     "name": "Python devroom @FOSDEM",
     "url": "https://fosdem.org/2025/schedule/track/python/",
-    "start_date": "2025-01-31",
-    "end_date": "2025-02-02",
+    "start_date": "2025-02-01",
+    "end_date": "2025-02-03",
     "mode": "In-person",
     "location": "Brussels, Belgium",
     "original_date": "1st - 2nd February"
@@ -47,8 +47,8 @@
   {
     "name": "Laracon EU",
     "url": "https://laracon.eu/",
-    "start_date": "2025-02-02",
-    "end_date": "2025-02-04",
+    "start_date": "2025-02-03",
+    "end_date": "2025-02-05",
     "mode": "In-person",
     "location": "Amsterdam, Netherlands",
     "original_date": "3rd - 4th February"
@@ -56,8 +56,8 @@
   {
     "name": "SOOCON - State of Open Conference",
     "url": "https://stateofopencon.com/",
-    "start_date": "2025-02-03",
-    "end_date": "2025-02-05",
+    "start_date": "2025-02-04",
+    "end_date": "2025-02-06",
     "mode": "In-person",
     "location": "London, United Kingdom",
     "original_date": "4th - 5th February"
@@ -65,8 +65,8 @@
   {
     "name": "Python Barcamp Karlsruhe",
     "url": "https://barcamps.eu/python-barcamp-karlsruhe-2025/",
-    "start_date": "2025-02-19",
-    "end_date": "2025-02-22",
+    "start_date": "2025-02-20",
+    "end_date": "2025-02-23",
     "mode": "In-person",
     "location": "Karlsruhe, Germany",
     "original_date": "20th - 22nd February"
@@ -74,8 +74,8 @@
   {
     "name": "WordCamp Asia",
     "url": "https://asia.wordcamp.org/2025",
-    "start_date": "2025-02-19",
-    "end_date": "2025-02-22",
+    "start_date": "2025-02-20",
+    "end_date": "2025-02-23",
     "mode": "In-person",
     "location": "Manila, Philippines",
     "original_date": "20th - 22nd February"
@@ -83,8 +83,8 @@
   {
     "name": "International Hackathon",
     "url": "https://os-sci.com/event/international-hackathon-14/register",
-    "start_date": "2025-02-20",
-    "end_date": "2025-02-22",
+    "start_date": "2025-02-21",
+    "end_date": "2025-02-23",
     "mode": "Hybrid",
     "location": "Worldwide, Worldwide",
     "original_date": "21th - 22nd February"
@@ -92,8 +92,8 @@
   {
     "name": "Django Girls Koforidua",
     "url": "https://djangogirls.org/en/koforidua/",
-    "start_date": "2025-02-20",
-    "end_date": "2025-02-22",
+    "start_date": "2025-02-21",
+    "end_date": "2025-02-23",
     "mode": "In-person",
     "location": "Koforidua, Ghana",
     "original_date": "21st - 22nd February"
@@ -101,8 +101,8 @@
   {
     "name": "GeoPython",
     "url": "https://2025.geopython.net/",
-    "start_date": "2025-02-23",
-    "end_date": "2025-02-26",
+    "start_date": "2025-02-24",
+    "end_date": "2025-02-27",
     "mode": "In-person",
     "location": "Basel, Switzerland",
     "original_date": "24th - 26th February"
@@ -110,8 +110,8 @@
   {
     "name": "Pycon Namibia",
     "url": "https://na.pycon.org",
-    "start_date": "2025-02-23",
-    "end_date": "2025-02-27",
+    "start_date": "2025-02-24",
+    "end_date": "2025-02-28",
     "mode": "In-person",
     "location": "Windhoek, Namibia",
     "original_date": "24th - 27th February"
@@ -119,8 +119,8 @@
   {
     "name": "SOSS Policy Summit - Open Source Security Foundation",
     "url": "https://events.linuxfoundation.org/soss-policy-summit-dc/",
-    "start_date": "2025-03-03",
-    "end_date": "2025-03-04",
+    "start_date": "2025-03-04",
+    "end_date": "2025-03-05",
     "mode": "In-person",
     "location": "Washington, DC - USA",
     "original_date": "4th March"
@@ -128,8 +128,8 @@
   {
     "name": "SCALE22x",
     "url": "https://www.socallinuxexpo.org/scale/22x",
-    "start_date": "2025-03-05",
-    "end_date": "2025-03-09",
+    "start_date": "2025-03-06",
+    "end_date": "2025-03-10",
     "mode": "In-person",
     "location": "Pasadena, California - USA",
     "original_date": "6th - 9th March"
@@ -137,8 +137,8 @@
   {
     "name": "Umbraco Spark",
     "url": "https://umbracospark.com/",
-    "start_date": "2025-03-06",
-    "end_date": "2025-03-07",
+    "start_date": "2025-03-07",
+    "end_date": "2025-03-08",
     "mode": "In-person",
     "location": "Bristol, United Kingdom",
     "original_date": "7th March"
@@ -146,8 +146,8 @@
   {
     "name": "FOSS Backstage",
     "url": "https://25.foss-backstage.de/",
-    "start_date": "2025-03-09",
-    "end_date": "2025-03-11",
+    "start_date": "2025-03-10",
+    "end_date": "2025-03-12",
     "mode": "In-person",
     "location": "Berlin, Germany",
     "original_date": "10th - 11th March"
@@ -155,8 +155,8 @@
   {
     "name": "FOSS Backstage Design",
     "url": "https://25.foss-backstage.de/",
-    "start_date": "2025-03-11",
-    "end_date": "2025-03-12",
+    "start_date": "2025-03-12",
+    "end_date": "2025-03-13",
     "mode": "In-Person",
     "location": "Berlin, Germany",
     "original_date": "12th March"
@@ -164,8 +164,8 @@
   {
     "name": "FOSSASIA Summit",
     "url": "https://summit.fossasia.org",
-    "start_date": "2025-03-12",
-    "end_date": "2025-03-15",
+    "start_date": "2025-03-13",
+    "end_date": "2025-03-16",
     "mode": "In-person",
     "location": "Bangkok, Thailand",
     "original_date": "13th - 15th March"
@@ -173,8 +173,8 @@
   {
     "name": "Nvidia GTC",
     "url": "https://www.nvidia.com/gtc/?ncid=pa-srch-goog-554238-prsp&_bt=722935569549&_bk=tech%20conference%202025&_bm=b&_bn=g&_bg=170630106386&gad_source=1&gclid=CjwKCAiAhP67BhAVEiwA2E_9g7HIz93J9Yy7N5hqfX3SE1mm8iMbWJ6bb0JT30t4ti36uHtFJNjM8xoCTEgQAvD_BwE",
-    "start_date": "2025-03-16",
-    "end_date": "2025-03-21",
+    "start_date": "2025-03-17",
+    "end_date": "2025-03-22",
     "mode": "In-person",
     "location": "San Jose, California - USA",
     "original_date": "17th - 21st March"
@@ -182,8 +182,8 @@
   {
     "name": "Linux Foundation Member Summit",
     "url": "https://events.linuxfoundation.org/lf-member-summit/",
-    "start_date": "2025-03-17",
-    "end_date": "2025-03-20",
+    "start_date": "2025-03-18",
+    "end_date": "2025-03-21",
     "mode": "In-person",
     "location": "Napa, California - USA",
     "original_date": "18th - 20th March"
@@ -191,8 +191,8 @@
   {
     "name": "Open Source Day",
     "url": "https://osday.dev/",
-    "start_date": "2025-03-20",
-    "end_date": "2025-03-21",
+    "start_date": "2025-03-21",
+    "end_date": "2025-03-22",
     "mode": "In-person",
     "location": "Florence, Italy",
     "original_date": "21st March"
@@ -200,8 +200,8 @@
   {
     "name": "ArgoCon Europe",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/argocon/",
-    "start_date": "2025-03-31",
-    "end_date": "2025-04-01",
+    "start_date": "2025-04-01",
+    "end_date": "2025-04-02",
     "mode": "In-person",
     "location": "London, England",
     "original_date": "1st April"
@@ -209,8 +209,8 @@
   {
     "name": "KubeCon + CloudNativeCon Europe",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/",
-    "start_date": "2025-03-31",
-    "end_date": "2025-04-04",
+    "start_date": "2025-04-01",
+    "end_date": "2025-04-05",
     "mode": "In-person",
     "location": "London, England",
     "original_date": "1st - 4th April"
@@ -218,8 +218,8 @@
   {
     "name": "PyCon Austria",
     "url": "https://pycon.pyug.at/en/",
-    "start_date": "2025-04-05",
-    "end_date": "2025-04-07",
+    "start_date": "2025-04-06",
+    "end_date": "2025-04-08",
     "mode": "In-person",
     "location": "Eisenstadt, Austria",
     "original_date": "6th - 7th April"
@@ -227,8 +227,8 @@
   {
     "name": "PyTexas Conference",
     "url": "https://www.pytexas.org/2025/",
-    "start_date": "2025-04-10",
-    "end_date": "2025-04-13",
+    "start_date": "2025-04-11",
+    "end_date": "2025-04-14",
     "mode": "In-person",
     "location": "Austin, Texas - USA",
     "original_date": "11th - 13th April"
@@ -236,8 +236,8 @@
   {
     "name": "FOSS North",
     "url": "https://foss-north.se/2025/",
-    "start_date": "2025-04-13",
-    "end_date": "2025-04-15",
+    "start_date": "2025-04-14",
+    "end_date": "2025-04-16",
     "mode": "In-person",
     "location": "Gothenburg, Sweden",
     "original_date": "14th - 15th April"
@@ -245,8 +245,8 @@
   {
     "name": "PyCon DE & PyData 2025",
     "url": "https://2025.pycon.de/",
-    "start_date": "2025-04-22",
-    "end_date": "2025-04-25",
+    "start_date": "2025-04-23",
+    "end_date": "2025-04-26",
     "mode": "In-person",
     "location": "Frankfurt, Germany",
     "original_date": "23rd - 25th April"
@@ -254,8 +254,8 @@
   {
     "name": "Django Girls Ho",
     "url": "https://djangogirls.org/en/ho/",
-    "start_date": "2025-04-24",
-    "end_date": "2025-04-26",
+    "start_date": "2025-04-25",
+    "end_date": "2025-04-27",
     "mode": "In-person",
     "location": "Ho, Ghana",
     "original_date": "25th - 26th April"
@@ -263,8 +263,8 @@
   {
     "name": "FLISoL",
     "url": "https://flisol.info/en",
-    "start_date": "2025-04-25",
-    "end_date": "2025-04-26",
+    "start_date": "2025-04-26",
+    "end_date": "2025-04-27",
     "mode": "Hybrid",
     "location": "Simultaneously 200+ latinamerican cities, LATAM",
     "original_date": "26th April"
@@ -272,8 +272,8 @@
   {
     "name": "StackConf",
     "url": "https://stackconf.eu/",
-    "start_date": "2025-04-25",
-    "end_date": "2025-04-30",
+    "start_date": "2025-04-26",
+    "end_date": "2025-05-01",
     "mode": "In-person",
     "location": "Munich, Germany",
     "original_date": "26th - 30th April"
@@ -281,17 +281,26 @@
   {
     "name": "OpenSearchCon Europe",
     "url": "https://events.linuxfoundation.org/opensearchcon-europe/",
-    "start_date": "2025-04-29",
-    "end_date": "2025-05-01",
+    "start_date": "2025-04-30",
+    "end_date": "2025-05-02",
     "mode": "In-person",
     "location": "Amsterdam, Netherlands",
     "original_date": "30th April - 1 May 2025"
   },
   {
+    "name": "PostgreSQL Conference",
+    "url": "https://www.postgresql.eu/events/pgconfde2025/news/pgconfde-2025-registration-is-open-158/",
+    "start_date": "2025-05-08",
+    "end_date": "2025-05-10",
+    "mode": "In-person",
+    "location": "Berlin, Germany",
+    "original_date": "8th - 9th May"
+  },
+  {
     "name": "PyCon US",
     "url": "https://us.pycon.org/2025/",
-    "start_date": "2025-05-13",
-    "end_date": "2025-05-22",
+    "start_date": "2025-05-14",
+    "end_date": "2025-05-23",
     "mode": "In-person",
     "location": "Pittsburgh, Pennsylvania - USA",
     "original_date": "14th - 22nd May"
@@ -299,8 +308,8 @@
   {
     "name": "Red Hat Summit",
     "url": "https://www.redhat.com/en/summit",
-    "start_date": "2025-05-18",
-    "end_date": "2025-05-22",
+    "start_date": "2025-05-19",
+    "end_date": "2025-05-23",
     "mode": "In-person",
     "location": "Boston, Massachusetts - USA",
     "original_date": "19th - 22nd May"
@@ -308,8 +317,8 @@
   {
     "name": "PyCon Italia",
     "url": "https://2025.pycon.it/en",
-    "start_date": "2025-05-27",
-    "end_date": "2025-05-31",
+    "start_date": "2025-05-28",
+    "end_date": "2025-06-01",
     "mode": "In-person",
     "location": "Bologna, Italy",
     "original_date": "28th - 31st May"
@@ -317,8 +326,8 @@
   {
     "name": "OpenSearchCon India",
     "url": "https://events.linuxfoundation.org/opensearchcon-india/",
-    "start_date": "2025-06-02",
-    "end_date": "2025-06-04",
+    "start_date": "2025-06-03",
+    "end_date": "2025-06-05",
     "mode": "In-person",
     "location": "Bengaluru, India",
     "original_date": "3rd - 4th June 2025"
@@ -326,8 +335,8 @@
   {
     "name": "Berlin Buzzwords",
     "url": "https://2025.berlinbuzzwords.de/",
-    "start_date": "2025-06-14",
-    "end_date": "2025-06-17",
+    "start_date": "2025-06-15",
+    "end_date": "2025-06-18",
     "mode": "In-person",
     "location": "Berlin, Germany",
     "original_date": "15th - 17th June"
@@ -335,8 +344,8 @@
   {
     "name": "KubeCon + CloudNativeCon Japan",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/",
-    "start_date": "2025-06-15",
-    "end_date": "2025-06-17",
+    "start_date": "2025-06-16",
+    "end_date": "2025-06-18",
     "mode": "In-person",
     "location": "Tokyo, Japan",
     "original_date": "16th - 17th June"
@@ -344,8 +353,8 @@
   {
     "name": "Open Source Summit North America",
     "url": "https://events.linuxfoundation.org/open-source-summit-north-america/",
-    "start_date": "2025-06-22",
-    "end_date": "2025-06-25",
+    "start_date": "2025-06-23",
+    "end_date": "2025-06-26",
     "mode": "In-person",
     "location": "Denver, Colorado - USA",
     "original_date": "23rd - 25th June"
@@ -353,8 +362,8 @@
   {
     "name": "Open EDX",
     "url": "https://con.openedx.org/",
-    "start_date": "2025-06-30",
-    "end_date": "2025-07-04",
+    "start_date": "2025-07-01",
+    "end_date": "2025-07-05",
     "mode": "In-person",
     "location": "Paris, France",
     "original_date": "1st - 4th July"
@@ -362,8 +371,8 @@
   {
     "name": "Foss4g",
     "url": "https://2025.europe.foss4g.org/",
-    "start_date": "2025-07-13",
-    "end_date": "2025-07-20",
+    "start_date": "2025-07-14",
+    "end_date": "2025-07-21",
     "mode": "In-person",
     "location": "Mostar, Bosnia",
     "original_date": "14th - 20th July"
@@ -371,8 +380,8 @@
   {
     "name": "Debcon25",
     "url": "https://debconf25.debconf.org/",
-    "start_date": "2025-07-13",
-    "end_date": "2025-07-20",
+    "start_date": "2025-07-14",
+    "end_date": "2025-07-21",
     "mode": "In-person",
     "location": "Brest, France",
     "original_date": "14th - 20th July"
@@ -380,8 +389,8 @@
   {
     "name": "Open Sauce",
     "url": "https://opensauce.com/",
-    "start_date": "2025-07-17",
-    "end_date": "2025-07-20",
+    "start_date": "2025-07-18",
+    "end_date": "2025-07-21",
     "mode": "In-person",
     "location": "San Francisco Bay Area, California - USA",
     "original_date": "18th - 20th July"
@@ -389,8 +398,8 @@
   {
     "name": "JuliaCon",
     "url": "https://juliacon.org/2025/",
-    "start_date": "2025-07-20",
-    "end_date": "2025-07-26",
+    "start_date": "2025-07-21",
+    "end_date": "2025-07-27",
     "mode": "In-person",
     "location": "Pittsburgh, PA",
     "original_date": "21st - 26th July"
@@ -398,8 +407,8 @@
   {
     "name": "GUADEC",
     "url": "https://events.gnome.org/event/259/",
-    "start_date": "2025-07-23",
-    "end_date": "2025-07-29",
+    "start_date": "2025-07-24",
+    "end_date": "2025-07-30",
     "mode": "In-person",
     "location": "Brescia, Italy",
     "original_date": "24th - 29th July"
@@ -407,8 +416,8 @@
   {
     "name": "FOSSY 25",
     "url": "https://2025.fossy.us/",
-    "start_date": "2025-07-30",
-    "end_date": "2025-08-03",
+    "start_date": "2025-07-31",
+    "end_date": "2025-08-04",
     "mode": "In-person",
     "location": "Portland, Oregon, USA",
     "original_date": "31st July - 3rd August"
@@ -416,17 +425,26 @@
   {
     "name": "Open Source Summit Europe",
     "url": "https://events.linuxfoundation.org/open-source-summit-europe/",
-    "start_date": "2025-08-24",
-    "end_date": "2025-08-27",
+    "start_date": "2025-08-25",
+    "end_date": "2025-08-28",
     "mode": "In-person",
     "location": "Amsterdam, Netherlands",
     "original_date": "25th - 27th August"
   },
   {
+    "name": "PyCon UK",
+    "url": "https://2025.pyconuk.org/",
+    "start_date": "2025-09-19",
+    "end_date": "2025-09-23",
+    "mode": "In-person",
+    "location": "Manchester, United Kingdom",
+    "original_date": "19th - 22nd September"
+  },
+  {
     "name": "FlutterCon",
     "url": "https://fluttercon.dev",
-    "start_date": "2025-09-23",
-    "end_date": "2025-09-26",
+    "start_date": "2025-09-24",
+    "end_date": "2025-09-27",
     "mode": "In-person",
     "location": "Berlin, Germany",
     "original_date": "24th - 26th September"
@@ -434,8 +452,8 @@
   {
     "name": "PyCon Estonia",
     "url": "https://pycon.ee/",
-    "start_date": "2025-10-01",
-    "end_date": "2025-10-03",
+    "start_date": "2025-10-02",
+    "end_date": "2025-10-04",
     "mode": "In-person",
     "location": "Tallinn, Estonia",
     "original_date": "2nd - 3rd October"
@@ -443,8 +461,8 @@
   {
     "name": "All Things Open",
     "url": "https://2025.allthingsopen.org/",
-    "start_date": "2025-10-11",
-    "end_date": "2025-10-14",
+    "start_date": "2025-10-12",
+    "end_date": "2025-10-15",
     "mode": "In-person",
     "location": "Raleigh, NC USA",
     "original_date": "12th - 14th October"
@@ -452,8 +470,8 @@
   {
     "name": "KubeCon + CloudNativeCon North America",
     "url": "https://www.cncf.io/events/",
-    "start_date": "2025-11-09",
-    "end_date": "2025-11-13",
+    "start_date": "2025-11-10",
+    "end_date": "2025-11-14",
     "mode": "In-person",
     "location": "Atlanta, United States",
     "original_date": "10th - 13th November"
@@ -461,8 +479,8 @@
   {
     "name": "Open Source Generative AI & ML Summit",
     "url": "https://events.linuxfoundation.org/ai-dev-japan-2025/",
-    "start_date": "2025-12-07",
-    "end_date": "2025-12-10",
+    "start_date": "2025-12-08",
+    "end_date": "2025-12-11",
     "mode": "In-person",
     "location": "Tokyo, Japan",
     "original_date": "8th - 10th December"
@@ -470,8 +488,8 @@
   {
     "name": "Open source summit Japan",
     "url": "https://events.linuxfoundation.org/open-source-summit-japan-2025/",
-    "start_date": "2025-12-07",
-    "end_date": "2025-12-10",
+    "start_date": "2025-12-08",
+    "end_date": "2025-12-11",
     "mode": "In-person",
     "location": "Tokyo, Japan",
     "original_date": "8th - 10th December"
