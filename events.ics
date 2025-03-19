@@ -4,8 +4,8 @@ PRODID:-//Open Source Events//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:8sg5pp0zljk@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:4p43m0gksup@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250118T000000Z
 DTEND:20250120T000000Z
 SUMMARY:Try! Swift x AI Singapore
@@ -14,8 +14,8 @@ URL:https://www.tryswift.co/world/
 LOCATION:Singapore
 END:VEVENT
 BEGIN:VEVENT
-UID:jf5v5s82zt@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:eco9q2szy9c@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250120T000000Z
 DTEND:20250123T000000Z
 SUMMARY:Everything Open
@@ -24,8 +24,8 @@ URL:https://2025.everythingopen.au/
 LOCATION:Adelaide, Australia
 END:VEVENT
 BEGIN:VEVENT
-UID:pf5q441tb9@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:r00mxjf4es@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250131T000000Z
 DTEND:20250201T000000Z
 SUMMARY:EU Open Source Policy Summit
@@ -34,8 +34,8 @@ URL:https://openforumeurope.org/event/eu-open-source-policy-summit/
 LOCATION:Brussels, Belgium
 END:VEVENT
 BEGIN:VEVENT
-UID:1ial056jp9@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:xumus433wn@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250201T000000Z
 DTEND:20250203T000000Z
 SUMMARY:FOSDEM
@@ -44,8 +44,8 @@ URL:https://fosdem.org/2025/
 LOCATION:Brussels, Belgium
 END:VEVENT
 BEGIN:VEVENT
-UID:ff74wx87wle@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:owupgfv1wx@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250201T000000Z
 DTEND:20250203T000000Z
 SUMMARY:Python devroom @FOSDEM
@@ -54,8 +54,8 @@ URL:https://fosdem.org/2025/schedule/track/python/
 LOCATION:Brussels, Belgium
 END:VEVENT
 BEGIN:VEVENT
-UID:je6tjswamj@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:frlai46yz29@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250203T000000Z
 DTEND:20250205T000000Z
 SUMMARY:Laracon EU
@@ -64,8 +64,8 @@ URL:https://laracon.eu/
 LOCATION:Amsterdam, Netherlands
 END:VEVENT
 BEGIN:VEVENT
-UID:tqodokgyy@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:diuyzehib4l@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250204T000000Z
 DTEND:20250206T000000Z
 SUMMARY:SOOCON - State of Open Conference
@@ -74,8 +74,8 @@ URL:https://stateofopencon.com/
 LOCATION:London, United Kingdom
 END:VEVENT
 BEGIN:VEVENT
-UID:7zb9umejnzy@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:2aku3w4vxcu@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250220T000000Z
 DTEND:20250223T000000Z
 SUMMARY:Python Barcamp Karlsruhe
@@ -84,8 +84,8 @@ URL:https://barcamps.eu/python-barcamp-karlsruhe-2025/
 LOCATION:Karlsruhe, Germany
 END:VEVENT
 BEGIN:VEVENT
-UID:8mks5b60m0o@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:yd75y9xlboa@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250220T000000Z
 DTEND:20250223T000000Z
 SUMMARY:WordCamp Asia
@@ -94,8 +94,8 @@ URL:https://asia.wordcamp.org/2025
 LOCATION:Manila, Philippines
 END:VEVENT
 BEGIN:VEVENT
-UID:8lk44v4ta7j@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:9m7xt02wtoc@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250221T000000Z
 DTEND:20250223T000000Z
 SUMMARY:International Hackathon
@@ -104,8 +104,8 @@ URL:https://os-sci.com/event/international-hackathon-14/register
 LOCATION:Worldwide, Worldwide
 END:VEVENT
 BEGIN:VEVENT
-UID:02xt3hkzttyi@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:vo6tplei16i@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250221T000000Z
 DTEND:20250223T000000Z
 SUMMARY:Django Girls Koforidua
@@ -114,8 +114,8 @@ URL:https://djangogirls.org/en/koforidua/
 LOCATION:Koforidua, Ghana
 END:VEVENT
 BEGIN:VEVENT
-UID:gabxinzv74u@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:cyji5hbmwoj@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250224T000000Z
 DTEND:20250227T000000Z
 SUMMARY:GeoPython
@@ -124,8 +124,8 @@ URL:https://2025.geopython.net/
 LOCATION:Basel, Switzerland
 END:VEVENT
 BEGIN:VEVENT
-UID:nznm00njczf@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:0jpnypiyhuis@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250224T000000Z
 DTEND:20250228T000000Z
 SUMMARY:Pycon Namibia
@@ -134,8 +134,8 @@ URL:https://na.pycon.org
 LOCATION:Windhoek, Namibia
 END:VEVENT
 BEGIN:VEVENT
-UID:bgl06w2f9hq@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:ppdpfqt57p@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250304T000000Z
 DTEND:20250305T000000Z
 SUMMARY:SOSS Policy Summit - Open Source Security Foundation
@@ -144,8 +144,8 @@ URL:https://events.linuxfoundation.org/soss-policy-summit-dc/
 LOCATION:Washington, DC - USA
 END:VEVENT
 BEGIN:VEVENT
-UID:fdrp6esx3ul@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:x9ad6h383dh@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250306T000000Z
 DTEND:20250310T000000Z
 SUMMARY:SCALE22x
@@ -154,8 +154,8 @@ URL:https://www.socallinuxexpo.org/scale/22x
 LOCATION:Pasadena, California - USA
 END:VEVENT
 BEGIN:VEVENT
-UID:168y733a04g@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:vpb310udtja@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250307T000000Z
 DTEND:20250308T000000Z
 SUMMARY:Umbraco Spark
@@ -164,8 +164,8 @@ URL:https://umbracospark.com/
 LOCATION:Bristol, United Kingdom
 END:VEVENT
 BEGIN:VEVENT
-UID:0afyy2gzilxn@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:d0pyt1nm4x@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250310T000000Z
 DTEND:20250312T000000Z
 SUMMARY:FOSS Backstage
@@ -174,8 +174,8 @@ URL:https://25.foss-backstage.de/
 LOCATION:Berlin, Germany
 END:VEVENT
 BEGIN:VEVENT
-UID:vrkgyy9mx9n@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:g1zz1g6u8kb@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250312T000000Z
 DTEND:20250313T000000Z
 SUMMARY:FOSS Backstage Design
@@ -184,8 +184,8 @@ URL:https://25.foss-backstage.de/
 LOCATION:Berlin, Germany
 END:VEVENT
 BEGIN:VEVENT
-UID:we0bsjqk3mk@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:bf0faca3pbd@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250313T000000Z
 DTEND:20250316T000000Z
 SUMMARY:FOSSASIA Summit
@@ -194,8 +194,8 @@ URL:https://summit.fossasia.org
 LOCATION:Bangkok, Thailand
 END:VEVENT
 BEGIN:VEVENT
-UID:v2zqmu5wvl@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:3yitz9fz0il@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250317T000000Z
 DTEND:20250322T000000Z
 SUMMARY:Nvidia GTC
@@ -204,8 +204,8 @@ URL:https://www.nvidia.com/gtc/?ncid=pa-srch-goog-554238-prsp&_bt=722935569549&_
 LOCATION:San Jose, California - USA
 END:VEVENT
 BEGIN:VEVENT
-UID:sng02vl04ya@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:fwx1hwieku8@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250318T000000Z
 DTEND:20250321T000000Z
 SUMMARY:Linux Foundation Member Summit
@@ -214,8 +214,8 @@ URL:https://events.linuxfoundation.org/lf-member-summit/
 LOCATION:Napa, California - USA
 END:VEVENT
 BEGIN:VEVENT
-UID:kwak5eogld@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:tkfxviy6pyo@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250321T000000Z
 DTEND:20250322T000000Z
 SUMMARY:Open Source Day
@@ -224,8 +224,8 @@ URL:https://osday.dev/
 LOCATION:Florence, Italy
 END:VEVENT
 BEGIN:VEVENT
-UID:1xccmicbw2h@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:sefvtbsi08@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250401T000000Z
 DTEND:20250402T000000Z
 SUMMARY:ArgoCon Europe
@@ -234,8 +234,8 @@ URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-
 LOCATION:London, England
 END:VEVENT
 BEGIN:VEVENT
-UID:m8pm10g4e1@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:u2hj29tpu8@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250401T000000Z
 DTEND:20250405T000000Z
 SUMMARY:KubeCon + CloudNativeCon Europe
@@ -244,8 +244,8 @@ URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
 LOCATION:London, England
 END:VEVENT
 BEGIN:VEVENT
-UID:j6ygevsfrr9@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:vbw3tno3re@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250406T000000Z
 DTEND:20250408T000000Z
 SUMMARY:PyCon Austria
@@ -254,8 +254,8 @@ URL:https://pycon.pyug.at/en/
 LOCATION:Eisenstadt, Austria
 END:VEVENT
 BEGIN:VEVENT
-UID:ovmbvthqpt@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:xaa251ifmv@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250411T000000Z
 DTEND:20250414T000000Z
 SUMMARY:PyTexas Conference
@@ -264,8 +264,8 @@ URL:https://www.pytexas.org/2025/
 LOCATION:Austin, Texas - USA
 END:VEVENT
 BEGIN:VEVENT
-UID:jbe10clhl6c@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:wol7mh03qm8@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250414T000000Z
 DTEND:20250416T000000Z
 SUMMARY:FOSS North
@@ -274,8 +274,8 @@ URL:https://foss-north.se/2025/
 LOCATION:Gothenburg, Sweden
 END:VEVENT
 BEGIN:VEVENT
-UID:t58zwt4h9b@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:krv137r8gz@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250423T000000Z
 DTEND:20250426T000000Z
 SUMMARY:PyCon DE & PyData 2025
@@ -284,8 +284,8 @@ URL:https://2025.pycon.de/
 LOCATION:Frankfurt, Germany
 END:VEVENT
 BEGIN:VEVENT
-UID:ptbymbm8j1n@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:3vqp50tgenl@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250425T000000Z
 DTEND:20250427T000000Z
 SUMMARY:Django Girls Ho
@@ -294,8 +294,8 @@ URL:https://djangogirls.org/en/ho/
 LOCATION:Ho, Ghana
 END:VEVENT
 BEGIN:VEVENT
-UID:kt9geiyanh@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:3vo29ter69n@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250426T000000Z
 DTEND:20250427T000000Z
 SUMMARY:FLISoL
@@ -304,8 +304,8 @@ URL:https://flisol.info/en
 LOCATION:Simultaneously 200+ latinamerican cities, LATAM
 END:VEVENT
 BEGIN:VEVENT
-UID:t3ix6lr041@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:exuaglh7arq@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250426T000000Z
 DTEND:20250501T000000Z
 SUMMARY:StackConf
@@ -314,8 +314,8 @@ URL:https://stackconf.eu/
 LOCATION:Munich, Germany
 END:VEVENT
 BEGIN:VEVENT
-UID:6ftmcs52zka@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:pfy7tp4vuk@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250430T000000Z
 DTEND:20250502T000000Z
 SUMMARY:OpenSearchCon Europe
@@ -324,8 +324,8 @@ URL:https://events.linuxfoundation.org/opensearchcon-europe/
 LOCATION:Amsterdam, Netherlands
 END:VEVENT
 BEGIN:VEVENT
-UID:5pg1nxue6b7@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:gly0yr2pxv6@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250508T000000Z
 DTEND:20250510T000000Z
 SUMMARY:PostgreSQL Conference
@@ -334,8 +334,8 @@ URL:https://www.postgresql.eu/events/pgconfde2025/news/pgconfde-2025-registratio
 LOCATION:Berlin, Germany
 END:VEVENT
 BEGIN:VEVENT
-UID:h4rz22y14x@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:gekgsk0cqys@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250514T000000Z
 DTEND:20250523T000000Z
 SUMMARY:PyCon US
@@ -344,8 +344,8 @@ URL:https://us.pycon.org/2025/
 LOCATION:Pittsburgh, Pennsylvania - USA
 END:VEVENT
 BEGIN:VEVENT
-UID:9pogyaoy9m6@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:7fcjflenk2c@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250519T000000Z
 DTEND:20250523T000000Z
 SUMMARY:Red Hat Summit
@@ -354,8 +354,8 @@ URL:https://www.redhat.com/en/summit
 LOCATION:Boston, Massachusetts - USA
 END:VEVENT
 BEGIN:VEVENT
-UID:9yl18xoxgqc@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:yw13x4awvz@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250528T000000Z
 DTEND:20250601T000000Z
 SUMMARY:PyCon Italia
@@ -364,8 +364,8 @@ URL:https://2025.pycon.it/en
 LOCATION:Bologna, Italy
 END:VEVENT
 BEGIN:VEVENT
-UID:6h9qm3p2ryp@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:nyc6l1ooa1@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250603T000000Z
 DTEND:20250605T000000Z
 SUMMARY:OpenSearchCon India
@@ -374,8 +374,8 @@ URL:https://events.linuxfoundation.org/opensearchcon-india/
 LOCATION:Bengaluru, India
 END:VEVENT
 BEGIN:VEVENT
-UID:29if1iqvomn@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:jm5lrzncj2@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250615T000000Z
 DTEND:20250618T000000Z
 SUMMARY:Berlin Buzzwords
@@ -384,8 +384,8 @@ URL:https://2025.berlinbuzzwords.de/
 LOCATION:Berlin, Germany
 END:VEVENT
 BEGIN:VEVENT
-UID:qcko9fp58jj@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:feezv6rchx@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250616T000000Z
 DTEND:20250618T000000Z
 SUMMARY:KubeCon + CloudNativeCon Japan
@@ -394,8 +394,8 @@ URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/
 LOCATION:Tokyo, Japan
 END:VEVENT
 BEGIN:VEVENT
-UID:m46xnqtlaq@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:z8ne1kee7l8@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250623T000000Z
 DTEND:20250626T000000Z
 SUMMARY:Open Source Summit North America
@@ -404,8 +404,8 @@ URL:https://events.linuxfoundation.org/open-source-summit-north-america/
 LOCATION:Denver, Colorado - USA
 END:VEVENT
 BEGIN:VEVENT
-UID:fphyv3cboiw@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:licxijsdn8i@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250701T000000Z
 DTEND:20250705T000000Z
 SUMMARY:Open EDX
@@ -414,8 +414,8 @@ URL:https://con.openedx.org/
 LOCATION:Paris, France
 END:VEVENT
 BEGIN:VEVENT
-UID:haxva0d91ae@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:7rvkdc2r8by@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250714T000000Z
 DTEND:20250721T000000Z
 SUMMARY:Foss4g
@@ -424,8 +424,8 @@ URL:https://2025.europe.foss4g.org/
 LOCATION:Mostar, Bosnia
 END:VEVENT
 BEGIN:VEVENT
-UID:fg619e35yjw@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:0ooa01h9tepc@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250714T000000Z
 DTEND:20250721T000000Z
 SUMMARY:Debcon25
@@ -434,8 +434,8 @@ URL:https://debconf25.debconf.org/
 LOCATION:Brest, France
 END:VEVENT
 BEGIN:VEVENT
-UID:en82k2uw1jr@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:jhfkncj7g7o@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250718T000000Z
 DTEND:20250721T000000Z
 SUMMARY:Open Sauce
@@ -444,8 +444,8 @@ URL:https://opensauce.com/
 LOCATION:San Francisco Bay Area, California - USA
 END:VEVENT
 BEGIN:VEVENT
-UID:4a8yhoua8zm@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:vcohoqf94a@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250721T000000Z
 DTEND:20250727T000000Z
 SUMMARY:JuliaCon
@@ -454,8 +454,8 @@ URL:https://juliacon.org/2025/
 LOCATION:Pittsburgh, PA
 END:VEVENT
 BEGIN:VEVENT
-UID:3fhz7ig2ptq@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:d2twmtrinf@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250724T000000Z
 DTEND:20250730T000000Z
 SUMMARY:GUADEC
@@ -464,8 +464,8 @@ URL:https://events.gnome.org/event/259/
 LOCATION:Brescia, Italy
 END:VEVENT
 BEGIN:VEVENT
-UID:u83vhbfw9n@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:ggop501k35@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250731T000000Z
 DTEND:20250804T000000Z
 SUMMARY:FOSSY 25
@@ -474,8 +474,8 @@ URL:https://2025.fossy.us/
 LOCATION:Portland, Oregon, USA
 END:VEVENT
 BEGIN:VEVENT
-UID:so7dt2u5pl@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:6xvlo8knrpp@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250825T000000Z
 DTEND:20250828T000000Z
 SUMMARY:Open Source Summit Europe
@@ -484,8 +484,8 @@ URL:https://events.linuxfoundation.org/open-source-summit-europe/
 LOCATION:Amsterdam, Netherlands
 END:VEVENT
 BEGIN:VEVENT
-UID:3vdq54w8ysm@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:7vinx9m241l@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250919T000000Z
 DTEND:20250923T000000Z
 SUMMARY:PyCon UK
@@ -494,8 +494,8 @@ URL:https://2025.pyconuk.org/
 LOCATION:Manchester, United Kingdom
 END:VEVENT
 BEGIN:VEVENT
-UID:58n850uwe9@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:jjyli25jn0m@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20250924T000000Z
 DTEND:20250927T000000Z
 SUMMARY:FlutterCon
@@ -504,8 +504,8 @@ URL:https://fluttercon.dev
 LOCATION:Berlin, Germany
 END:VEVENT
 BEGIN:VEVENT
-UID:c83766lh5np@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:yvda28m2jj@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20251002T000000Z
 DTEND:20251004T000000Z
 SUMMARY:PyCon Estonia
@@ -514,8 +514,8 @@ URL:https://pycon.ee/
 LOCATION:Tallinn, Estonia
 END:VEVENT
 BEGIN:VEVENT
-UID:0onvjlcxpdui@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:y8g6m9r1aq@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20251012T000000Z
 DTEND:20251015T000000Z
 SUMMARY:All Things Open
@@ -524,8 +524,8 @@ URL:https://2025.allthingsopen.org/
 LOCATION:Raleigh, NC USA
 END:VEVENT
 BEGIN:VEVENT
-UID:opjc25cj0rh@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:7d28hj2pdkr@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20251110T000000Z
 DTEND:20251114T000000Z
 SUMMARY:KubeCon + CloudNativeCon North America
@@ -534,8 +534,8 @@ URL:https://www.cncf.io/events/
 LOCATION:Atlanta, United States
 END:VEVENT
 BEGIN:VEVENT
-UID:igbzpf207em@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:tjhexvijx49@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20251208T000000Z
 DTEND:20251211T000000Z
 SUMMARY:Open Source Generative AI & ML Summit
@@ -544,8 +544,8 @@ URL:https://events.linuxfoundation.org/ai-dev-japan-2025/
 LOCATION:Tokyo, Japan
 END:VEVENT
 BEGIN:VEVENT
-UID:qw4a8q7lgz@opensourceevents.com
-DTSTAMP:20250318T000000Z
+UID:v6e9vvwcn2@opensourceevents.com
+DTSTAMP:20250319T000000Z
 DTSTART:20251208T000000Z
 DTEND:20251211T000000Z
 SUMMARY:Open source summit Japan
