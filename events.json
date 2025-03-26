@@ -396,6 +396,15 @@
     "original_date": "14th - 20th July"
   },
   {
+    "name": "EUROPYTHON PRAGUE & REMOTE",
+    "url": "https://ep2025.europython.eu/",
+    "start_date": "2025-07-14",
+    "end_date": "2025-07-21",
+    "mode": "In person , Remote",
+    "location": "Prague , Czech Republic",
+    "original_date": "14th - 20th July "
+  },
+  {
     "name": "Open Sauce",
     "url": "https://opensauce.com/",
     "start_date": "2025-07-18",
@@ -439,6 +448,15 @@
     "mode": "In-person",
     "location": "Amsterdam, Netherlands",
     "original_date": "25th - 27th August"
+  },
+  {
+    "name": "DjangoCon US 2025",
+    "url": "https://2025.djangocon.us/",
+    "start_date": "2025-09-08",
+    "end_date": "2025-09-13",
+    "mode": "In Person",
+    "location": "Chicago, Illinois - USA",
+    "original_date": "8th - 12th September "
   },
   {
     "name": "PyCon UK",
