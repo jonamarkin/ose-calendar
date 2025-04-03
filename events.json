@@ -351,6 +351,15 @@
     "original_date": "16th - 17th June"
   },
   {
+    "name": "UN Open Source Week 2025",
+    "url": "https://www.un.org/digital-emerging-technologies/content/open-source-week-2025",
+    "start_date": "2025-06-16",
+    "end_date": "2025-06-21",
+    "mode": "In-person",
+    "location": "United Nations Headquarters, New York - USA",
+    "original_date": "16th - 20th June"
+  },
+  {
     "name": "Open Source Summit North America",
     "url": "https://events.linuxfoundation.org/open-source-summit-north-america/",
     "start_date": "2025-06-23",
@@ -441,6 +450,15 @@
     "original_date": "31st July - 3rd August"
   },
   {
+    "name": "OSCAFEST - Open Source Festival",
+    "url": "https://festival.oscafrica.org/",
+    "start_date": "2025-08-14",
+    "end_date": "2025-08-17",
+    "mode": "In-person",
+    "location": "Lagos, Nigeria",
+    "original_date": "14th - 16th August"
+  },
+  {
     "name": "Open Source Summit Europe",
     "url": "https://events.linuxfoundation.org/open-source-summit-europe/",
     "start_date": "2025-08-25",
@@ -511,6 +529,15 @@
     "mode": "In-person",
     "location": "Atlanta, United States",
     "original_date": "10th - 13th November"
+  },
+  {
+    "name": "Open Forum Academy",
+    "url": "https://symposium.openforumeurope.org/",
+    "start_date": "2025-11-18",
+    "end_date": "2025-11-20",
+    "mode": "In-person",
+    "location": "Rio de Janeiro, Brazil",
+    "original_date": "18th - 19th November"
   },
   {
     "name": "Open Source Generative AI & ML Summit",
