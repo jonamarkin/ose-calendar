@@ -288,6 +288,15 @@
     "original_date": "30th April - 1 May 2025"
   },
   {
+    "name": "PGConf.BE",
+    "url": "https://pgconf.be",
+    "start_date": "2025-05-06",
+    "end_date": "2025-05-07",
+    "mode": "In-person",
+    "location": "Haasrode (Leuven), Belgium",
+    "original_date": "6th May"
+  },
+  {
     "name": "PostgreSQL Conference",
     "url": "https://www.postgresql.eu/events/pgconfde2025/news/pgconfde-2025-registration-is-open-158/",
     "start_date": "2025-05-08",
