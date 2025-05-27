@@ -324,6 +324,15 @@
     "original_date": "19th - 22nd May"
   },
   {
+    "name": "Opensips Summit",
+    "url": "https://www.opensips.org/events/Summit-2025Amsterdam/",
+    "start_date": "2025-05-27",
+    "end_date": "2025-05-30",
+    "mode": "In-person",
+    "location": "Amsterdam, Netherlands",
+    "original_date": "27th - 29th May"
+  },
+  {
     "name": "PyCon Italia",
     "url": "https://2025.pycon.it/en",
     "start_date": "2025-05-28",
@@ -333,13 +342,58 @@
     "original_date": "28th - 31st May"
   },
   {
+    "name": "Open Source North",
+    "url": "https://opensourcenorth.com/",
+    "start_date": "2025-05-29",
+    "end_date": "2025-05-30",
+    "mode": "In-person",
+    "location": "St",
+    "original_date": "29th May"
+  },
+  {
+    "name": "T-Dose",
+    "url": "https://t-dose.org/2025/",
+    "start_date": "2025-05-31",
+    "end_date": "2025-06-02",
+    "mode": "In-person",
+    "location": "Geldrop, Netherlands",
+    "original_date": "31st May - 1st June"
+  },
+  {
     "name": "OpenSearchCon India",
     "url": "https://events.linuxfoundation.org/opensearchcon-india/",
     "start_date": "2025-06-03",
     "end_date": "2025-06-05",
     "mode": "In-person",
     "location": "Bengaluru, India",
-    "original_date": "3rd - 4th June 2025"
+    "original_date": "3rd - 4th June"
+  },
+  {
+    "name": "Community Over Code",
+    "url": "https://eu.communityovercode.org/",
+    "start_date": "2025-06-03",
+    "end_date": "2025-06-06",
+    "mode": "In-person",
+    "location": "Bratislava, Slovakia",
+    "original_date": "3rd - 5th June"
+  },
+  {
+    "name": "PyTorch Day China",
+    "url": "https://www.lfasiallc.com/pytorch-day-china/",
+    "start_date": "2025-06-07",
+    "end_date": "2025-06-08",
+    "mode": "In-person",
+    "location": "Beijing, China",
+    "original_date": "7th June"
+  },
+  {
+    "name": "React Summit",
+    "url": "https://reactsummit.com/?_gl=1*xe57sq*_gcl_aw*R0NMLjE3NDgyMjMwNDEuQ2owS0NRandfOHJCQmhDRkFSSXNBSnJjOXlCd2lnOU04YnZGX3lXWndZR0Vud0liNlhuMVZtaHVyVFNtY2VOdXo0bnRWeXYxa24zekIwMGFBcmxZRUFMd193Y0I.*_gcl_au*NDIxNzg1MzI3LjE3NDgyMjMwNDEuNTY0NjkyNDIwLjE3NDgyMjMwNDIuMTc0ODIyMzA0MQ..",
+    "start_date": "2025-06-13",
+    "end_date": "2025-06-14",
+    "mode": "In-person",
+    "location": "Amsterdam, Netherlands",
+    "original_date": "13th & 17th June"
   },
   {
     "name": "Berlin Buzzwords",
@@ -495,6 +549,15 @@
     "original_date": "8th - 12th September "
   },
   {
+    "name": "PyCon Australia",
+    "url": "https://2025.pycon.org.au/",
+    "start_date": "2025-09-12",
+    "end_date": "2025-09-17",
+    "mode": "In-person",
+    "location": "Pullman Melbourne, Australia",
+    "original_date": "12th - 16th September"
+  },
+  {
     "name": "PyCon UK",
     "url": "https://2025.pyconuk.org/",
     "start_date": "2025-09-19",
@@ -511,6 +574,15 @@
     "mode": "In-person",
     "location": "Berlin, Germany",
     "original_date": "24th - 26th September"
+  },
+  {
+    "name": "PyCon Japan",
+    "url": "https://2025.pycon.jp/",
+    "start_date": "2025-09-26",
+    "end_date": "2025-09-28",
+    "mode": "In Person",
+    "location": "International Conference Center Hiroshima, Japan",
+    "original_date": "26th - 27th September "
   },
   {
     "name": "PyCon Estonia",
@@ -531,6 +603,15 @@
     "original_date": "12th - 14th October"
   },
   {
+    "name": "GitHub Universe",
+    "url": "https://githubuniverse.com/",
+    "start_date": "2025-10-28",
+    "end_date": "2025-10-30",
+    "mode": "In-person",
+    "location": "San Francisco, California - USA",
+    "original_date": "28th - 29th October"
+  },
+  {
     "name": "KubeCon + CloudNativeCon North America",
     "url": "https://www.cncf.io/events/",
     "start_date": "2025-11-10",
@@ -547,6 +628,15 @@
     "mode": "In-person",
     "location": "Rio de Janeiro, Brazil",
     "original_date": "18th - 19th November"
+  },
+  {
+    "name": "React Summit",
+    "url": "https://reactsummit.com/?_gl=1*xe57sq*_gcl_aw*R0NMLjE3NDgyMjMwNDEuQ2owS0NRandfOHJCQmhDRkFSSXNBSnJjOXlCd2lnOU04YnZGX3lXWndZR0Vud0liNlhuMVZtaHVyVFNtY2VOdXo0bnRWeXYxa24zekIwMGFBcmxZRUFMd193Y0I.*_gcl_au*NDIxNzg1MzI3LjE3NDgyMjMwNDEuNTY0NjkyNDIwLjE3NDgyMjMwNDIuMTc0ODIyMzA0MQ..",
+    "start_date": "2025-11-18",
+    "end_date": "2025-11-19",
+    "mode": "In-person",
+    "location": "New York - USA",
+    "original_date": "18th & 21st November"
   },
   {
     "name": "Open Source Generative AI & ML Summit",
