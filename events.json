@@ -522,6 +522,15 @@
     "original_date": "14th - 16th August"
   },
   {
+    "name": "PyCon Togo",
+    "url": "https://pycontg.pytogo.org/",
+    "start_date": "2025-08-23",
+    "end_date": "2025-08-25",
+    "mode": "Hybrid",
+    "location": "Lomé, Togo",
+    "original_date": "23th - 24th(half-day) August"
+  },
+  {
     "name": "Open Source Summit Europe",
     "url": "https://events.linuxfoundation.org/open-source-summit-europe/",
     "start_date": "2025-08-25",
@@ -592,6 +601,15 @@
     "mode": "In-person",
     "location": "Tallinn, Estonia",
     "original_date": "2nd - 3rd October"
+  },
+  {
+    "name": "PyCon Africa",
+    "url": "https://za.pycon.org/",
+    "start_date": "2025-10-08",
+    "end_date": "2025-10-13",
+    "mode": "Hybrid",
+    "location": "The Wanderers Club, Johannesburg South Africa",
+    "original_date": "08th - 12th October"
   },
   {
     "name": "All Things Open",
