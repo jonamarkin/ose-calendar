@@ -513,6 +513,15 @@
     "original_date": "31st July - 3rd August"
   },
   {
+    "name": "DjangoCon Africa",
+    "url": "https://2025.djangocon.africa",
+    "start_date": "2025-08-11",
+    "end_date": "2025-08-16",
+    "mode": "In-person",
+    "location": "Arusha, Tanzania",
+    "original_date": "11th - 15th August"
+  },
+  {
     "name": "OSCAFEST - Open Source Festival",
     "url": "https://festival.oscafrica.org/",
     "start_date": "2025-08-14",
@@ -538,6 +547,15 @@
     "mode": "In-person",
     "location": "Amsterdam, Netherlands",
     "original_date": "25th - 27th August"
+  },
+  {
+    "name": "PyCon Kenya",
+    "url": "https://www.pycon.ke/",
+    "start_date": "2025-08-28",
+    "end_date": "2025-08-31",
+    "mode": "In-person",
+    "location": "Nairabi, Kenya",
+    "original_date": "28th - 30th August"
   },
   {
     "name": "PyCon Taiwan",
