@@ -612,6 +612,15 @@
     "original_date": "26th - 27th September "
   },
   {
+    "name": "PyBeach",
+    "url": "https://2025.pybeach.org/",
+    "start_date": "2025-09-27",
+    "end_date": "2025-09-28",
+    "mode": "In Person",
+    "location": "The Illusion Magic Lounge in Santa Monica, California",
+    "original_date": "27th September "
+  },
+  {
     "name": "PyCon Estonia",
     "url": "https://pycon.ee/",
     "start_date": "2025-10-02",
@@ -639,6 +648,15 @@
     "original_date": "12th - 14th October"
   },
   {
+    "name": "Pittsburgh TechFest 2025",
+    "url": "https://www.pghtech.org/events/2025TechFest",
+    "start_date": "2025-10-24",
+    "end_date": "2025-10-25",
+    "mode": "In-person",
+    "location": "Tepper Building, Carnegie Mellon University, in Pittsburgh, Pennsylvania",
+    "original_date": "24th October"
+  },
+  {
     "name": "GitHub Universe",
     "url": "https://githubuniverse.com/",
     "start_date": "2025-10-28",
@@ -646,6 +664,15 @@
     "mode": "In-person",
     "location": "San Francisco, California - USA",
     "original_date": "28th - 29th October"
+  },
+  {
+    "name": "SeaGL",
+    "url": "https://pretalx.seagl.org/2025/cfp",
+    "start_date": "2025-11-07",
+    "end_date": "2025-11-09",
+    "mode": "Hybrid",
+    "location": "Husky Union Building, University of Washington",
+    "original_date": "7th - 8th November"
   },
   {
     "name": "KubeCon + CloudNativeCon North America",
@@ -673,6 +700,15 @@
     "mode": "In-person",
     "location": "New York - USA",
     "original_date": "18th & 21st November"
+  },
+  {
+    "name": "tiny ruby #{conf}",
+    "url": "https://helsinkiruby.fi/tinyruby/",
+    "start_date": "2025-11-21",
+    "end_date": "2025-11-22",
+    "mode": "In-person",
+    "location": "Korjaamo Kino cinema in Helsinki, Finland",
+    "original_date": "21st November"
   },
   {
     "name": "Open Source Generative AI & ML Summit",
