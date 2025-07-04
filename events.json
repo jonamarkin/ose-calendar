@@ -369,15 +369,6 @@
     "original_date": "3rd - 4th June"
   },
   {
-    "name": "Community Over Code",
-    "url": "https://eu.communityovercode.org/",
-    "start_date": "2025-06-03",
-    "end_date": "2025-06-06",
-    "mode": "In-person",
-    "location": "Bratislava, Slovakia",
-    "original_date": "3rd - 5th June"
-  },
-  {
     "name": "PyTorch Day China",
     "url": "https://www.lfasiallc.com/pytorch-day-china/",
     "start_date": "2025-06-07",
@@ -504,6 +495,15 @@
     "original_date": "24th - 29th July"
   },
   {
+    "name": "Community Over Code Asia by the Apache Software Foundation",
+    "url": "https://asia.communityovercode.org/",
+    "start_date": "2025-07-25",
+    "end_date": "2025-07-28",
+    "mode": "In-person",
+    "location": "Beijing, China",
+    "original_date": "25th - 27th July"
+  },
+  {
     "name": "FOSSY 25",
     "url": "https://2025.fossy.us/",
     "start_date": "2025-07-31",
@@ -583,6 +583,15 @@
     "mode": "In-person",
     "location": "Pullman Melbourne, Australia",
     "original_date": "12th - 16th September"
+  },
+  {
+    "name": "DevConf.US",
+    "url": "https://www.devconf.info/us/",
+    "start_date": "2025-09-19",
+    "end_date": "2025-09-21",
+    "mode": "In-person",
+    "location": "Boston, USA",
+    "original_date": "19th - 20th September"
   },
   {
     "name": "PyCon UK",
