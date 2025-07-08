@@ -626,8 +626,17 @@
     "start_date": "2025-09-27",
     "end_date": "2025-09-28",
     "mode": "In Person",
-    "location": "The Illusion Magic Lounge in Santa Monica, California",
+    "location": "The Illusion Magic Lounge in Santa Monica, California - USA",
     "original_date": "27th September "
+  },
+  {
+    "name": "Git Merge",
+    "url": "https://git-merge.com/",
+    "start_date": "2025-09-29",
+    "end_date": "2025-10-01",
+    "mode": "Hybrid",
+    "location": "GitHub HQ, San Francisco, California - USA",
+    "original_date": "29th - 30th September "
   },
   {
     "name": "PyCon Estonia",
@@ -645,7 +654,7 @@
     "end_date": "2025-10-13",
     "mode": "Hybrid",
     "location": "The Wanderers Club, Johannesburg South Africa",
-    "original_date": "08th - 12th October"
+    "original_date": "8th - 12th October"
   },
   {
     "name": "All Things Open",
@@ -657,6 +666,33 @@
     "original_date": "12th - 14th October"
   },
   {
+    "name": "Open Source AI Week",
+    "url": "https://events.linuxfoundation.org/open-source-ai-week/",
+    "start_date": "2025-10-18",
+    "end_date": "2025-10-19",
+    "mode": "In-person",
+    "location": "San Francisco, California - USA",
+    "original_date": "18th -26th October"
+  },
+  {
+    "name": "The Linux Foundation Legal Summit",
+    "url": "https://events.linuxfoundation.org/lf-legal-summit/",
+    "start_date": "2025-10-20",
+    "end_date": "2025-10-22",
+    "mode": "In-person",
+    "location": "San Francisco, California - USA",
+    "original_date": "20th - 21st October"
+  },
+  {
+    "name": "Open Source in Finance Forum",
+    "url": "https://events.linuxfoundation.org/open-source-finance-forum-new-york/",
+    "start_date": "2025-10-21",
+    "end_date": "2025-10-23",
+    "mode": "In-person",
+    "location": "New York City, New York - USA",
+    "original_date": "21st - 22nd October"
+  },
+  {
     "name": "Pittsburgh TechFest 2025",
     "url": "https://www.pghtech.org/events/2025TechFest",
     "start_date": "2025-10-24",
@@ -664,6 +700,15 @@
     "mode": "In-person",
     "location": "Tepper Building, Carnegie Mellon University, in Pittsburgh, Pennsylvania",
     "original_date": "24th October"
+  },
+  {
+    "name": "The Linux Foundation Europe Member Summit",
+    "url": "https://events.linuxfoundation.org/lf-europe-member-summit/",
+    "start_date": "2025-10-28",
+    "end_date": "2025-10-29",
+    "mode": "In-person",
+    "location": "Ghent, Belgium",
+    "original_date": "28th October"
   },
   {
     "name": "GitHub Universe",
@@ -675,13 +720,49 @@
     "original_date": "28th - 29th October"
   },
   {
+    "name": "OpenSSF Community Day Korea",
+    "url": "https://events.linuxfoundation.org/openssf-community-day-korea/",
+    "start_date": "2025-11-04",
+    "end_date": "2025-11-05",
+    "mode": "In-person",
+    "location": "Seoul, South Korea",
+    "original_date": "4th November"
+  },
+  {
+    "name": "Open Source Summit Korea",
+    "url": "https://events.linuxfoundation.org/open-source-summit-korea/",
+    "start_date": "2025-11-04",
+    "end_date": "2025-11-06",
+    "mode": "In-person",
+    "location": "Seoul, South Korea",
+    "original_date": "4th - 5th November"
+  },
+  {
     "name": "SeaGL",
-    "url": "https://pretalx.seagl.org/2025/cfp",
+    "url": "https://seagl.org/",
     "start_date": "2025-11-07",
     "end_date": "2025-11-09",
     "mode": "Hybrid",
     "location": "Husky Union Building, University of Washington",
     "original_date": "7th - 8th November"
+  },
+  {
+    "name": "The South Tyrol Free Software Conference",
+    "url": "https://www.sfscon.it/",
+    "start_date": "2025-11-07",
+    "end_date": "2025-11-09",
+    "mode": "In-person",
+    "location": "Bolzano, Italy",
+    "original_date": "7th - 8th November"
+  },
+  {
+    "name": "Open Source Security Conference",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/open-source-securitycon/",
+    "start_date": "2025-11-10",
+    "end_date": "2025-11-11",
+    "mode": "In-person",
+    "location": "Atlanta, United States",
+    "original_date": "10th November"
   },
   {
     "name": "KubeCon + CloudNativeCon North America",
