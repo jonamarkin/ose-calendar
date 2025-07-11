@@ -531,6 +531,15 @@
     "original_date": "14th - 16th August"
   },
   {
+    "name": "PyCon Latam",
+    "url": "https://pylatam.org/",
+    "start_date": "2025-08-21",
+    "end_date": "2025-08-25",
+    "mode": "In-person",
+    "location": "Costa Rica",
+    "original_date": "21st - 24th August"
+  },
+  {
     "name": "PyCon Togo",
     "url": "https://pycontg.pytogo.org/",
     "start_date": "2025-08-23",
