@@ -513,6 +513,15 @@
     "original_date": "31st July - 3rd August"
   },
   {
+    "name": "COSCUP (Conference for Open Source Coders, Users, and Promoters)",
+    "url": "https://coscup.org/2025/",
+    "start_date": "2025-08-09",
+    "end_date": "2025-08-11",
+    "mode": "In-person",
+    "location": "National Taiwan University of Science and Technology, Taipei - Taiwan",
+    "original_date": "  9th - 10th August"
+  },
+  {
     "name": "DjangoCon Africa",
     "url": "https://2025.djangocon.africa",
     "start_date": "2025-08-11",
@@ -556,6 +565,15 @@
     "mode": "In-person",
     "location": "Amsterdam, Netherlands",
     "original_date": "25th - 27th August"
+  },
+  {
+    "name": "Keyspace",
+    "url": "https://valkey.io/blog/keyspace-save-the-date/",
+    "start_date": "2025-08-28",
+    "end_date": "2025-08-29",
+    "mode": "In-person",
+    "location": "Amsterdam, Netherlands",
+    "original_date": "28th August"
   },
   {
     "name": "PyCon Kenya",
@@ -619,6 +637,15 @@
     "mode": "In-person",
     "location": "Berlin, Germany",
     "original_date": "24th - 26th September"
+  },
+  {
+    "name": "PyCon Ghana",
+    "url": "https://gh.pycon.org/2025/",
+    "start_date": "2025-09-25",
+    "end_date": "2025-09-28",
+    "mode": "In-person",
+    "location": "Accra, Ghana",
+    "original_date": "25th - 27th September"
   },
   {
     "name": "PyCon Japan",
