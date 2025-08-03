@@ -788,7 +788,7 @@
     "start_date": "2025-11-07",
     "end_date": "2025-11-09",
     "mode": "Hybrid",
-    "location": "Husky Union Building, University of Washington",
+    "location": "Husky Union Building, University of Washington, Seattle, Washington, USA",
     "original_date": "7th - 8th November"
   },
   {
@@ -801,12 +801,21 @@
     "original_date": "7th - 8th November"
   },
   {
+    "name": "FOSS for All Conference 2025",
+    "url": "https://2025.fossforall.org/",
+    "start_date": "2025-11-08",
+    "end_date": "2025-11-09",
+    "mode": "In-person",
+    "location": "Seoul, South Korea",
+    "original_date": "8th November"
+  },
+  {
     "name": "Open Source Security Conference",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/open-source-securitycon/",
     "start_date": "2025-11-10",
     "end_date": "2025-11-11",
     "mode": "In-person",
-    "location": "Atlanta, United States",
+    "location": "Atlanta, Georgia, United States",
     "original_date": "10th November"
   },
   {
@@ -815,7 +824,7 @@
     "start_date": "2025-11-10",
     "end_date": "2025-11-14",
     "mode": "In-person",
-    "location": "Atlanta, United States",
+    "location": "Atlanta, Georgia, USA",
     "original_date": "10th - 13th November"
   },
   {
@@ -833,7 +842,7 @@
     "start_date": "2025-11-18",
     "end_date": "2025-11-19",
     "mode": "In-person",
-    "location": "New York - USA",
+    "location": "New York, New York, USA",
     "original_date": "18th & 21st November"
   },
   {
@@ -844,6 +853,15 @@
     "mode": "In-person",
     "location": "Korjaamo Kino cinema in Helsinki, Finland",
     "original_date": "21st November"
+  },
+  {
+    "name": "Kiwi PyCon 2025",
+    "url": "https://kiwipycon.squarespace.com/",
+    "start_date": "2025-11-21",
+    "end_date": "2025-11-24",
+    "mode": "In-person",
+    "location": "Wellington, Aotearoa New Zealand",
+    "original_date": "21st - 23th November"
   },
   {
     "name": "Open Source Generative AI & ML Summit",
