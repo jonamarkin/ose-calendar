@@ -594,6 +594,15 @@
     "original_date": "28th - 30th August"
   },
   {
+    "name": "PyCon PL",
+    "url": "https://pl.pycon.org/2025/",
+    "start_date": "2025-08-28",
+    "end_date": "2025-09-01",
+    "mode": "In-person",
+    "location": "Gliwice, Poland",
+    "original_date": "28th - 31st August"
+  },
+  {
     "name": "PyCon Taiwan",
     "url": "https://tw.pycon.org/2025/en-us",
     "start_date": "2025-09-05",
@@ -763,6 +772,15 @@
     "mode": "In-person",
     "location": "San Francisco, California - USA",
     "original_date": "28th - 29th October"
+  },
+  {
+    "name": "Mautic World Conference",
+    "url": "https://2025.mauticon.org",
+    "start_date": "2025-11-03",
+    "end_date": "2025-11-08",
+    "mode": "Hybrid",
+    "location": "London, UK",
+    "original_date": "3rd - 7th November"
   },
   {
     "name": "OpenSSF Community Day Korea",
