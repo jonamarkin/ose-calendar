@@ -882,6 +882,15 @@
     "original_date": "21st - 23th November"
   },
   {
+    "name": "Python Sul - Porto Alegre",
+    "url": "https://sul.python.org.br/en/",
+    "start_date": "2025-11-21",
+    "end_date": "2025-11-24",
+    "mode": "In-person",
+    "location": "Rio Grande do Sul, Brazil",
+    "original_date": "21th - 23th November"
+  },
+  {
     "name": "Open Source Generative AI & ML Summit",
     "url": "https://events.linuxfoundation.org/ai-dev-japan-2025/",
     "start_date": "2025-12-08",
