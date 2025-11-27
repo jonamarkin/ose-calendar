@@ -2,8 +2,8 @@
   {
     "name": "FOSDEM 26",
     "url": "https://fosdem.org/2026",
-    "start_date": "2025-01-31",
-    "end_date": "2025-02-02",
+    "start_date": "2026-01-30",
+    "end_date": "2026-02-01",
     "mode": "In-person",
     "location": "Brussels, Belgium",
     "original_date": "31st January - 1st February"
@@ -11,8 +11,8 @@
   {
     "name": "PyCon US",
     "url": "https://us.pycon.org/2026/",
-    "start_date": "2025-05-13",
-    "end_date": "2025-05-20",
+    "start_date": "2026-05-12",
+    "end_date": "2026-05-19",
     "mode": "In-person",
     "location": "Long Beach, California - USA",
     "original_date": "13th - 19th May"
