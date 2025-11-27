@@ -40,26 +40,21 @@ function parseDate(dateStr, year = new Date().getFullYear()) {
     // Remove suffixes like "th", "st", etc.
     dateStr = dateStr.replace(/(\d+)(st|nd|rd|th)/g, "$1");
 
-    // Skip "not announced yet" dates
     if (dateStr.toLowerCase().includes("not announced yet")) {
         return { startDate: null, endDate: null };
     }
 
-    // Define month name to number mapping
     const monthMap = {
         "january": 1, "february": 2, "march": 3, "april": 4, "may": 5, "june": 6,
         "july": 7, "august": 8, "september": 9, "october": 10, "november": 11, "december": 12
     };
 
-    // Check if year is explicitly mentioned
     const yearMatch = dateStr.match(/\b(\d{4})\b/);
     if (yearMatch) {
         year = parseInt(yearMatch[1]);
-        // Remove the year from the date string to simplify parsing
         dateStr = dateStr.replace(`, ${year}`, "");
     }
 
-    // Handle date ranges (e.g., "18 - 19 January")
     if (dateStr.includes(" - ") || dateStr.includes(" to ")) {
         const separator = dateStr.includes(" - ") ? " - " : " to ";
         const parts = dateStr.split(separator);
@@ -68,21 +63,14 @@ function parseDate(dateStr, year = new Date().getFullYear()) {
             const startPart = parts[0].trim();
             const endPart = parts[1].trim();
 
-            // Extract month names
             let startMonth = null;
             let endMonth = null;
 
-            // Find month in date parts
             for (const month of Object.keys(monthMap)) {
-                if (startPart.toLowerCase().includes(month)) {
-                    startMonth = month;
-                }
-                if (endPart.toLowerCase().includes(month)) {
-                    endMonth = month;
-                }
+                if (startPart.toLowerCase().includes(month)) startMonth = month;
+                if (endPart.toLowerCase().includes(month)) endMonth = month;
             }
 
-            // If month not found in specific parts, check the whole string
             if (!startMonth) {
                 for (const month of Object.keys(monthMap)) {
                     if (dateStr.toLowerCase().includes(month)) {
@@ -92,32 +80,20 @@ function parseDate(dateStr, year = new Date().getFullYear()) {
                 }
             }
 
-            // If end month not specified, use start month
-            if (!endMonth) {
-                endMonth = startMonth;
-            }
+            if (!endMonth) endMonth = startMonth;
 
-            // Extract day numbers
             const startDayMatch = startPart.match(/(\d+)/);
             const endDayMatch = endPart.match(/(\d+)/);
 
             if (startDayMatch && endDayMatch && startMonth && endMonth) {
-                const startDay = parseInt(startDayMatch[0]);
-                const endDay = parseInt(endDayMatch[0]);
+                const startDate = new Date(year, monthMap[startMonth] - 1, parseInt(startDayMatch[0]));
+                const endDate = new Date(year, monthMap[endMonth] - 1, parseInt(endDayMatch[0]));
 
-                // Create date objects
-                const startDate = new Date(year, monthMap[startMonth] - 1, startDay);
-                const endDate = new Date(year, monthMap[endMonth] - 1, endDay);
-
-                // If end date is before start date, it might be in the next year
                 if (endDate < startDate && monthMap[endMonth] < monthMap[startMonth]) {
                     endDate.setFullYear(year + 1);
                 }
 
-                // Format dates as ISO strings (YYYY-MM-DD)
                 const startISO = startDate.toISOString().split('T')[0];
-
-                // Add a day to end date to make it exclusive (calendar convention)
                 endDate.setDate(endDate.getDate() + 1);
                 const endISO = endDate.toISOString().split('T')[0];
 
@@ -125,10 +101,7 @@ function parseDate(dateStr, year = new Date().getFullYear()) {
             }
         }
     } else {
-        // Handle single dates (e.g., "4 March")
         let month = null;
-
-        // Find month in the date string
         for (const m of Object.keys(monthMap)) {
             if (dateStr.toLowerCase().includes(m)) {
                 month = m;
@@ -136,19 +109,11 @@ function parseDate(dateStr, year = new Date().getFullYear()) {
             }
         }
 
-        // Extract day number
         const dayMatch = dateStr.match(/(\d+)/);
 
         if (dayMatch && month) {
-            const day = parseInt(dayMatch[0]);
-
-            // Create date object
-            const date = new Date(year, monthMap[month] - 1, day);
-
-            // Format date as ISO string (YYYY-MM-DD)
+            const date = new Date(year, monthMap[month] - 1, parseInt(dayMatch[0]));
             const startISO = date.toISOString().split('T')[0];
-
-            // Add a day for end date (exclusive)
             date.setDate(date.getDate() + 1);
             const endISO = date.toISOString().split('T')[0];
 
@@ -161,11 +126,8 @@ function parseDate(dateStr, year = new Date().getFullYear()) {
 
 /**
  * Generates an ICS file from event data.
- * @param {Array} events - Array of event objects.
- * @returns {string} - ICS file content.
  */
 function generateICS(events) {
-    // ICS file header
     let icsContent = [
         'BEGIN:VCALENDAR',
         'VERSION:2.0',
@@ -174,10 +136,8 @@ function generateICS(events) {
         'METHOD:PUBLISH'
     ];
 
-    // Add each event
     events.forEach(event => {
         if (event.startDate && event.endDate) {
-            // Format dates for ICS (remove hyphens and add 'T000000Z' for time)
             const startFormatted = event.startDate.replace(/-/g, '') + 'T000000Z';
             const endFormatted = event.endDate.replace(/-/g, '') + 'T000000Z';
 
@@ -196,28 +156,42 @@ function generateICS(events) {
         }
     });
 
-    // Add footer
     icsContent.push('END:VCALENDAR');
-
-    // Join with line breaks
     return icsContent.join('\r\n');
 }
 
 /**
- * Extracts events from markdown content and generates calendar files.
+ * Extracts events from markdown and generates calendar files.
  */
 async function main() {
     try {
-        // Get the current year
         const currentYear = new Date().getFullYear();
-
-        // Fetch README content
         const markdownText = await fetchContent(README_URL);
 
-        // Regular expression to extract events
+        // ---- YEAR DETECTION LOGIC ----
+        let detectedYear = null;
+
+        // Strategy 1: Detect year from README heading
+        const headerYearMatch = markdownText.match(/open source events.*?(20\d{2})/i);
+        if (headerYearMatch) {
+            detectedYear = parseInt(headerYearMatch[1], 10);
+            console.log(`Detected event year from heading: ${detectedYear}`);
+        } else {
+            // Strategy 2: detect first 20xx in entire doc
+            const yearMatch = markdownText.match(/\b20\d{2}\b/);
+            if (yearMatch) {
+                detectedYear = parseInt(yearMatch[0], 10);
+                console.log(`Detected event year from content: ${detectedYear}`);
+            } else {
+                // Last resort
+                detectedYear = currentYear;
+                console.log(`No year detected; defaulting to current year: ${detectedYear}`);
+            }
+        }
+
+        // ---- EVENT EXTRACTION ----
         const eventPattern = /- \[(.*?)\]\((.*?)\)\n\s*> Date: (.*?) \|\| Mode: (.*?) \|\| Location: (.*?)\./g;
 
-        // Extract events
         const events = [];
         let eventMatch;
         let successCount = 0;
@@ -226,8 +200,7 @@ async function main() {
         while ((eventMatch = eventPattern.exec(markdownText)) !== null) {
             const [_, name, url, date, mode, location] = eventMatch;
 
-            // Parse the date
-            const { startDate, endDate } = parseDate(date, currentYear);
+            const { startDate, endDate } = parseDate(date, detectedYear);
 
             if (startDate && endDate) {
                 events.push({
@@ -249,14 +222,12 @@ async function main() {
         }
 
         if (events.length === 0) {
-            console.error("No events were successfully parsed. Check the date formats and errors above.");
+            console.error("No events were successfully parsed. Check date formats.");
             return;
         }
 
-        // Sort events by start date
         events.sort((a, b) => a.startDate.localeCompare(b.startDate));
 
-        // Save JSON file
         fs.writeFileSync(
             "events.json",
             JSON.stringify(events.map(e => ({
@@ -271,7 +242,6 @@ async function main() {
             'utf8'
         );
 
-        // Generate and save ICS file
         const icsContent = generateICS(events);
         fs.writeFileSync("events.ics", icsContent, 'utf8');
 
@@ -283,5 +253,4 @@ async function main() {
     }
 }
 
-// Run the script
 main();
