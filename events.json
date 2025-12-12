@@ -1,20 +1,11 @@
 [
   {
-    "name": "FOSDEM 26",
-    "url": "https://fosdem.org/2026",
-    "start_date": "2026-01-31",
-    "end_date": "2026-02-02",
-    "mode": "In-person",
-    "location": "Brussels, Belgium",
-    "original_date": "31st January - 1st February"
-  },
-  {
     "name": "PyCon US",
     "url": "https://us.pycon.org/2026/",
     "start_date": "2026-05-13",
-    "end_date": "2026-05-20",
+    "end_date": "2026-05-14",
     "mode": "In-person",
-    "location": "Long Beach, California - USA",
-    "original_date": "13th - 19th May"
+    "location": "Long Beach,CA, USA",
+    "original_date": "May 13-19"
   }
 ]

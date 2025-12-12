@@ -4,23 +4,13 @@ PRODID:-//Open Source Events//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:3j7sf3n6jwb@opensourceevents.com
-DTSTAMP:20251211T000000Z
-DTSTART:20260131T000000Z
-DTEND:20260202T000000Z
-SUMMARY:FOSDEM 26
-DESCRIPTION:Mode: In-person\nLocation: Brussels, Belgium\nURL: https://fosdem.org/2026
-URL:https://fosdem.org/2026
-LOCATION:Brussels, Belgium
-END:VEVENT
-BEGIN:VEVENT
-UID:5n6ewjziwsc@opensourceevents.com
-DTSTAMP:20251211T000000Z
+UID:vccj635t1d@opensourceevents.com
+DTSTAMP:20251212T000000Z
 DTSTART:20260513T000000Z
-DTEND:20260520T000000Z
+DTEND:20260514T000000Z
 SUMMARY:PyCon US
-DESCRIPTION:Mode: In-person\nLocation: Long Beach, California - USA\nURL: https://us.pycon.org/2026/
+DESCRIPTION:Mode: In-person\nLocation: Long Beach,CA, USA\nURL: https://us.pycon.org/2026/
 URL:https://us.pycon.org/2026/
-LOCATION:Long Beach, California - USA
+LOCATION:Long Beach,CA, USA
 END:VEVENT
 END:VCALENDAR
