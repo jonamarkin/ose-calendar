@@ -279,6 +279,15 @@
     "original_date": "23rd March"
   },
   {
+    "name": "PyCon Lithuania",
+    "url": "https://pycon.lt/2026",
+    "start_date": "2026-04-08",
+    "end_date": "2026-04-11",
+    "mode": "In-person",
+    "location": "Vilnius, Lithuania",
+    "original_date": "8th - 10th April"
+  },
+  {
     "name": "Free Software Legal and Licensing Workshop 2026",
     "url": "https://pretalx.com/llw2026/cfp",
     "start_date": "2026-04-15",
