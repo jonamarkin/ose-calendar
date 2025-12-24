@@ -9,6 +9,15 @@
     "original_date": "28th January"
   },
   {
+    "name": "Linux Foundation Decentralized Trust",
+    "url": "https://www.lfdecentralizedtrust.org/events/member-summit-202526?hsLang=en",
+    "start_date": "2026-01-28",
+    "end_date": "2026-01-30",
+    "mode": "In-person",
+    "location": "Jersey City, New Jersey, USA",
+    "original_date": "28th - 29th January"
+  },
+  {
     "name": "Simpl Annual Community Event 2026",
     "url": "https://internationaldataspaces.org/events/simpl-annual-community-event-2026-connect-and-grow-together/",
     "start_date": "2026-01-29",
@@ -90,6 +99,15 @@
     "original_date": "2nd - 4th February"
   },
   {
+    "name": "PyTorch Day India",
+    "url": "https://events.linuxfoundation.org/pytorch-day-india/",
+    "start_date": "2026-02-07",
+    "end_date": "2026-02-08",
+    "mode": "In-person",
+    "location": "Bengaluru, India",
+    "original_date": "7th February"
+  },
+  {
     "name": "DevConf.IN",
     "url": "https://www.devconf.info/in/",
     "start_date": "2026-02-13",
@@ -124,6 +142,24 @@
     "mode": "In-person",
     "location": "Pasadena, California, USA",
     "original_date": "5th - 8th March"
+  },
+  {
+    "name": "FOSSASIA Summit",
+    "url": "https://eventyay.com/e/88882f3e",
+    "start_date": "2026-03-09",
+    "end_date": "2026-03-11",
+    "mode": "In-person",
+    "location": "Bankok, Thailand",
+    "original_date": "9th - 10th March"
+  },
+  {
+    "name": "Zephyr at Embedded World Exhibition & Conference",
+    "url": "https://zephyrproject.org/event/embedded-world-exhibition-conference-nuremberg-germany-2026/",
+    "start_date": "2026-03-10",
+    "end_date": "2026-03-13",
+    "mode": "In-person",
+    "location": "Nuremberg, Germany",
+    "original_date": "10th - 12th March"
   },
   {
     "name": "FOSS Backstage",
@@ -286,6 +322,15 @@
     "mode": "In-person",
     "location": "Vilnius, Lithuania",
     "original_date": "8th - 10th April"
+  },
+  {
+    "name": "PyCon DE & PyData 2026",
+    "url": "https://2026.pycon.de/",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-17",
+    "mode": "In-person",
+    "location": "Frankfurt, Germany",
+    "original_date": "14th - 16th April"
   },
   {
     "name": "Free Software Legal and Licensing Workshop 2026",
