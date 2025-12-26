@@ -1,5 +1,23 @@
 [
   {
+    "name": "Everything Open 2026",
+    "url": "https://2026.everythingopen.au/",
+    "start_date": "2026-01-21",
+    "end_date": "2026-01-24",
+    "mode": "In-person",
+    "location": "University of Canberra, Canberra, Australia",
+    "original_date": "21st - 23rd January"
+  },
+  {
+    "name": "FOSS4G Asia",
+    "url": "https://foss4g.asia/2026/",
+    "start_date": "2026-01-21",
+    "end_date": "2026-01-26",
+    "mode": "In-person",
+    "location": "Nashik, India",
+    "original_date": "21st - 25th January"
+  },
+  {
     "name": "Software Heritage 2026 Symposium and Summit",
     "url": "https://www.softwareheritage.org/2025/11/25/software_heritage_2026_symposium_summit/",
     "start_date": "2026-01-28",
@@ -99,6 +117,15 @@
     "original_date": "2nd - 4th February"
   },
   {
+    "name": "CityJS Singapore",
+    "url": "https://singapore.cityjsconf.org/?utm_source=cityjs_homecard&utm_medium=button&utm_campaign=learn_more",
+    "start_date": "2026-02-04",
+    "end_date": "2026-02-07",
+    "mode": "In-person",
+    "location": "LifeLong Learning Institute, Singapore",
+    "original_date": "4th - 6th February"
+  },
+  {
     "name": "PyTorch Day India",
     "url": "https://events.linuxfoundation.org/pytorch-day-india/",
     "start_date": "2026-02-07",
@@ -117,6 +144,24 @@
     "original_date": "13th - 14th February"
   },
   {
+    "name": "CityJS New Delhi",
+    "url": "https://india.cityjsconf.org/?utm_source=cityjs_homecard&utm_medium=card&utm_campaign=card_click",
+    "start_date": "2026-02-18",
+    "end_date": "2026-02-20",
+    "mode": "In-person",
+    "location": "Shankar Lal Concert Hall, New Delhi, India",
+    "original_date": "18th - 19th February"
+  },
+  {
+    "name": "PyCon Namibia 2026",
+    "url": "https://na.pycon.org/",
+    "start_date": "2026-02-20",
+    "end_date": "2026-02-27",
+    "mode": "In-person",
+    "location": "Namibia",
+    "original_date": "20th - 26th February"
+  },
+  {
     "name": "LF Member Summit",
     "url": "https://events.linuxfoundation.org/lf-member-summit/",
     "start_date": "2026-02-24",
@@ -133,6 +178,15 @@
     "mode": "Hybrid",
     "location": "Los Angeles, California, USA",
     "original_date": "26th February"
+  },
+  {
+    "name": "Laracon EU",
+    "url": "https://laracon.eu/",
+    "start_date": "2026-03-02",
+    "end_date": "2026-03-04",
+    "mode": "In-person",
+    "location": "Amsterdam, Netherlands",
+    "original_date": "2nd - 3rd March"
   },
   {
     "name": "SCaLE 23x",
@@ -198,13 +252,22 @@
     "original_date": "19th - 20th March"
   },
   {
+    "name": "Open Source SecurityCon Europe",
+    "url": "https://openssf.org/event/open-source-securitycon-2026/",
+    "start_date": "2026-03-23",
+    "end_date": "2026-03-24",
+    "mode": "In-person",
+    "location": "Amsterdam, The Netherlands",
+    "original_date": "23rd March"
+  },
+  {
     "name": "KubeCon/CloudNativeCon EU",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/",
     "start_date": "2026-03-23",
     "end_date": "2026-03-27",
     "mode": "In-person",
     "location": "Amsterdam, The Netherlands",
-    "original_date": "23th - 26th March"
+    "original_date": "23rd - 26th March"
   },
   {
     "name": "Cloud Native AI + Kubeflow Day",
@@ -315,6 +378,15 @@
     "original_date": "23rd March"
   },
   {
+    "name": "Chemnitz Linux Days",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/wasmcon/",
+    "start_date": "2026-03-29",
+    "end_date": "2026-03-31",
+    "mode": "In-person",
+    "location": "Chemnitzer, Germany",
+    "original_date": "29th - 30th March"
+  },
+  {
     "name": "PyCon Lithuania",
     "url": "https://pycon.lt/2026",
     "start_date": "2026-04-08",
@@ -351,6 +423,15 @@
     "original_date": "16th - 17th April"
   },
   {
+    "name": "GrafanaCon",
+    "url": "https://grafana.com/events/grafanacon/",
+    "start_date": "2026-04-20",
+    "end_date": "2026-04-23",
+    "mode": "In-person",
+    "location": "Barcelona, Spain",
+    "original_date": "20th - 22nd April"
+  },
+  {
     "name": "Open Community Experience (OCX) 2026",
     "url": "https://www.ocxconf.org/event/2026/summary",
     "start_date": "2026-04-21",
@@ -367,6 +448,24 @@
     "mode": "In-person",
     "location": "Bellingham, Washington, USA",
     "original_date": "24th - 26th April"
+  },
+  {
+    "name": "Write the Docs",
+    "url": "https://www.writethedocs.org/conf/portland/2026/",
+    "start_date": "2026-05-03",
+    "end_date": "2026-05-06",
+    "mode": "In-person",
+    "location": "Portland, Oregon, USA",
+    "original_date": "3rd - 5th May"
+  },
+  {
+    "name": "Red Hat Summit",
+    "url": "https://www.redhat.com/en/summit",
+    "start_date": "2026-05-11",
+    "end_date": "2026-05-15",
+    "mode": "In-person",
+    "location": "Atlanta, Georgia, USA",
+    "original_date": "11th - 14th May"
   },
   {
     "name": "PyCon US",
@@ -396,6 +495,24 @@
     "original_date": "18th - 20th May"
   },
   {
+    "name": "Beethoven Sprint 2026",
+    "url": "https://plone.org/news-and-events/events/sprints/beethoven-sprint-2026",
+    "start_date": "2026-05-18",
+    "end_date": "2026-05-23",
+    "mode": "In-person",
+    "location": "kitconcept office, Bonn, Germany",
+    "original_date": "18th - 22nd May"
+  },
+  {
+    "name": "OpenSSF Community Day North America 2026",
+    "url": "https://openssf.org/event/openssf-community-day-north-america-2026/",
+    "start_date": "2026-05-21",
+    "end_date": "2026-05-22",
+    "mode": "In-person",
+    "location": "Minneapolis, Minnesota",
+    "original_date": "21st May"
+  },
+  {
     "name": "Observability Summit North America",
     "url": "https://events.linuxfoundation.org/observability-summit-north-america/",
     "start_date": "2026-05-21",
@@ -405,6 +522,24 @@
     "original_date": "21st - 22nd May"
   },
   {
+    "name": "Platmosphere Chapter 2026 Master the Vibe",
+    "url": "https://platmosphere.com/",
+    "start_date": "2026-05-26",
+    "end_date": "2026-05-27",
+    "mode": "In-person",
+    "location": "Milan, Italy",
+    "original_date": "26th May"
+  },
+  {
+    "name": "Neos Conference 2026",
+    "url": "https://www.neoscon.io/",
+    "start_date": "2026-06-01",
+    "end_date": "2026-06-04",
+    "mode": "In-person",
+    "location": "Genohotel Karlsruhe, Germany",
+    "original_date": "1st - 3rd June"
+  },
+  {
     "name": "Berlin Buzzwords",
     "url": "https://2026.berlinbuzzwords.de/",
     "start_date": "2026-06-07",
@@ -412,6 +547,42 @@
     "mode": "In-person",
     "location": "Berlin, Germany",
     "original_date": "7th - 9th June"
+  },
+  {
+    "name": "Pole Position Sprint",
+    "url": "https://plone.org/news-and-events/events/sprints/pole-position-sprint-2026",
+    "start_date": "2026-06-08",
+    "end_date": "2026-06-13",
+    "mode": "In-person",
+    "location": "Kerpen, Germany",
+    "original_date": "8th - 12th June"
+  },
+  {
+    "name": "International PhP Conference",
+    "url": "https://phpconference.com/berlin-en/",
+    "start_date": "2026-06-08",
+    "end_date": "2026-06-13",
+    "mode": "Hybrid",
+    "location": "Maritim proArte Berlin, Germany",
+    "original_date": "8th - 12th June"
+  },
+  {
+    "name": "Umbraco Codegarden",
+    "url": "https://codegarden.umbraco.com/",
+    "start_date": "2026-06-10",
+    "end_date": "2026-06-12",
+    "mode": "In-person",
+    "location": "Copenhagen, Denmark",
+    "original_date": "10th - 11th June"
+  },
+  {
+    "name": "React Summit",
+    "url": "https://reactsummit.com/",
+    "start_date": "2026-06-12",
+    "end_date": "2026-06-17",
+    "mode": "In-person",
+    "location": "Amsterdam, Netherlands",
+    "original_date": "12th - 16th June"
   },
   {
     "name": "OpenSearchCon India",
@@ -468,6 +639,15 @@
     "original_date": "22nd - 26th June"
   },
   {
+    "name": "Open Source in Finance Forum London",
+    "url": "https://events.linuxfoundation.org/open-source-finance-forum-london/",
+    "start_date": "2026-06-25",
+    "end_date": "2026-06-26",
+    "mode": "In-person",
+    "location": "London, England",
+    "original_date": "25th June"
+  },
+  {
     "name": "Automotive Oopen Source Summit 2026",
     "url": "https://www.automotive-oss.org/event/2026/summary",
     "start_date": "2026-06-30",
@@ -475,6 +655,24 @@
     "mode": "In-person",
     "location": "Starnberg, Germany",
     "original_date": "30th June"
+  },
+  {
+    "name": "DroidCon",
+    "url": "https://usa.droidcon.com/",
+    "start_date": "2026-07-16",
+    "end_date": "2026-07-18",
+    "mode": "In-person",
+    "location": "Orlando, Florida, USA",
+    "original_date": "16th - 17th July"
+  },
+  {
+    "name": "FlutterCon",
+    "url": "https://www.flutterconusa.dev/",
+    "start_date": "2026-07-16",
+    "end_date": "2026-07-18",
+    "mode": "In-person",
+    "location": "Orlando, Florida, USA",
+    "original_date": "16th - 17th July"
   },
   {
     "name": "Open Source Days",
@@ -495,7 +693,34 @@
     "original_date": "29th - 30th July"
   },
   {
-    "name": "KubeCon + CloudNativeCon China",
+    "name": "PyCon Australia",
+    "url": "https://2026.pycon.org.au/",
+    "start_date": "2026-08-26",
+    "end_date": "2026-08-31",
+    "mode": "In-person",
+    "location": "Brisbane, Australia",
+    "original_date": "26th - 30th August"
+  },
+  {
+    "name": "FOSS4G Hiroshima",
+    "url": "https://www.osgeo.jp/foss4g-2026-hiroshima",
+    "start_date": "2026-08-30",
+    "end_date": "2026-09-06",
+    "mode": "In-person",
+    "location": "Hiroshima, Japan",
+    "original_date": "30th August - 5th September"
+  },
+  {
+    "name": "Airflow Summit",
+    "url": "https://airflowsummit.org/",
+    "start_date": "2026-08-31",
+    "end_date": "2026-09-03",
+    "mode": "In-person",
+    "location": "Austin, Texas, USA",
+    "original_date": "31st August - 2nd September"
+  },
+  {
+    "name": "KubeCon + CloudNativeCon + OpenInfra China",
     "url": "https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-china/",
     "start_date": "2026-09-08",
     "end_date": "2026-09-10",
@@ -504,16 +729,25 @@
     "original_date": "8th - 9th September"
   },
   {
-    "name": "OpenInfra Summit Asia",
-    "url": "https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-china/",
-    "start_date": "2026-09-08",
-    "end_date": "2026-09-10",
+    "name": "Automotive Grade Linux All Member Meeting",
+    "url": "https://events.linuxfoundation.org/agl-amm-europe/",
+    "start_date": "2026-09-30",
+    "end_date": "2026-10-02",
     "mode": "In-person",
-    "location": "Shanghai, China",
-    "original_date": "8th - 9th September 8-9"
+    "location": "Berlin, Germany",
+    "original_date": "30th September - 1st October"
   },
   {
-    "name": "Open Source Summit EU",
+    "name": "FlutterCon Europe",
+    "url": "https://www.nextappcon.com/fluttercon",
+    "start_date": "2026-10-07",
+    "end_date": "2026-10-10",
+    "mode": "In-person",
+    "location": "Berlin, Germany",
+    "original_date": "7th - 9th October"
+  },
+  {
+    "name": "Open Source Summit Europe",
     "url": "https://events.linuxfoundation.org/open-source-summit-europe/",
     "start_date": "2026-10-07",
     "end_date": "2026-10-10",
@@ -543,13 +777,31 @@
     "name": "PyTorch Conference 2026",
     "url": "https://events.linuxfoundation.org/pytorch-conference-2026/",
     "start_date": "2026-10-20",
-    "end_date": "2026-10-21",
+    "end_date": "2026-10-22",
     "mode": "In-person",
     "location": "San Jose, California, USA",
-    "original_date": "October 20-21"
+    "original_date": "20th - 21st October"
   },
   {
-    "name": "Open Source in Finance Forum",
+    "name": "CityJS Athens",
+    "url": "https://greece.cityjsconf.org/?utm_source=cityjs_homecard&utm_medium=card&utm_campaign=card_click",
+    "start_date": "2026-10-21",
+    "end_date": "2026-10-22",
+    "mode": "In-person",
+    "location": "Athens War Museum, Athens, Greece",
+    "original_date": "21st 23rd October"
+  },
+  {
+    "name": "IBM TechXchange",
+    "url": "https://www.ibm.com/community/ibm-techxchange-conference/",
+    "start_date": "2026-10-26",
+    "end_date": "2026-10-30",
+    "mode": "In-person",
+    "location": "Atlanta, Georgia, USA",
+    "original_date": "26th - 29th October"
+  },
+  {
+    "name": "Open Source in Finance Forum New York",
     "url": "https://events.linuxfoundation.org/open-source-finance-forum-new-york/",
     "start_date": "2026-11-04",
     "end_date": "2026-11-06",
@@ -592,5 +844,14 @@
     "mode": "In-person",
     "location": "Tokyo, Japan",
     "original_date": "7th - 9th December"
+  },
+  {
+    "name": "Open Compliance Summit",
+    "url": "https://events.linuxfoundation.org/open-compliance-summit/",
+    "start_date": "2026-12-10",
+    "end_date": "2026-12-12",
+    "mode": "In-person",
+    "location": "Tokyo, Japan",
+    "original_date": "10th - 11th December"
   }
 ]
