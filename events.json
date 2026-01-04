@@ -396,6 +396,15 @@
     "original_date": "8th - 10th April"
   },
   {
+    "name": "VulnCon 2026",
+    "url": "https://www.first.org/conference/vulncon26/cfs",
+    "start_date": "2026-04-13",
+    "end_date": "2026-04-17",
+    "mode": "In-person",
+    "location": "Paradise Valley, Scottsdale, Arizona, USA",
+    "original_date": "13th - 16th April"
+  },
+  {
     "name": "PyCon DE & PyData 2026",
     "url": "https://2026.pycon.de/",
     "start_date": "2026-04-14",
@@ -691,6 +700,15 @@
     "mode": "In-person",
     "location": "Yokohama, Japan",
     "original_date": "29th - 30th July"
+  },
+  {
+    "name": "DefCon Training",
+    "url": "https://training.defcon.org/pages/2026-las-vegas-call-for-trainers",
+    "start_date": "2026-08-08",
+    "end_date": "2026-08-12",
+    "mode": "In-person",
+    "location": "Las Vegas, Nevada, USA",
+    "original_date": "8th - 11th August"
   },
   {
     "name": "PyCon Australia",
