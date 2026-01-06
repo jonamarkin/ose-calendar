@@ -432,6 +432,15 @@
     "original_date": "16th - 17th April"
   },
   {
+    "name": "PyTexas",
+    "url": "https://www.pytexas.org/2026/",
+    "start_date": "2026-04-17",
+    "end_date": "2026-04-20",
+    "mode": "Hybrid",
+    "location": "Austin, Texas",
+    "original_date": "17th - 19th April"
+  },
+  {
     "name": "GrafanaCon",
     "url": "https://grafana.com/events/grafanacon/",
     "start_date": "2026-04-20",
@@ -538,6 +547,15 @@
     "mode": "In-person",
     "location": "Milan, Italy",
     "original_date": "26th May"
+  },
+  {
+    "name": "PyCon Italia",
+    "url": "https://2026.pycon.it/en",
+    "start_date": "2026-05-27",
+    "end_date": "2026-05-31",
+    "mode": "In-person",
+    "location": "Bologna, Italy",
+    "original_date": "27th - 30th May"
   },
   {
     "name": "Neos Conference 2026",
