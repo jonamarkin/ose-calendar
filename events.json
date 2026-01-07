@@ -230,7 +230,7 @@
     "start_date": "2026-03-16",
     "end_date": "2026-03-18",
     "mode": "In-person",
-    "location": "Chicago, Ilinois, USA",
+    "location": "Chicago, Illinois, USA",
     "original_date": "16th - 17th March"
   },
   {
@@ -250,6 +250,15 @@
     "mode": "In-person",
     "location": "London, UK",
     "original_date": "19th - 20th March"
+  },
+  {
+    "name": "George Washington University Open Source Conference (GW OSCON)",
+    "url": "https://ospo.gwu.edu/open-source-conference-gw-oscon",
+    "start_date": "2026-03-23",
+    "end_date": "2026-03-25",
+    "mode": "In-person",
+    "location": "Washington D",
+    "original_date": "23rd - 24th March"
   },
   {
     "name": "Open Source SecurityCon Europe",
@@ -430,6 +439,15 @@
     "mode": "In-person",
     "location": "Prague, Czechia",
     "original_date": "16th - 17th April"
+  },
+  {
+    "name": "Nerdearla Chile",
+    "url": "https://nerdearla.cl/",
+    "start_date": "2026-04-16",
+    "end_date": "2026-04-19",
+    "mode": "Hybrid",
+    "location": "Santiago de Chile, Chile",
+    "original_date": "16 - 18th April"
   },
   {
     "name": "PyTexas",
@@ -763,6 +781,15 @@
     "mode": "In-person",
     "location": "Shanghai, China",
     "original_date": "8th - 9th September"
+  },
+  {
+    "name": "Nerdearla Argentina",
+    "url": "https://nerdear.la/",
+    "start_date": "2026-09-22",
+    "end_date": "2026-09-27",
+    "mode": "Hybrid",
+    "location": "Buenos Aires, Argentina",
+    "original_date": "22 - 26th September"
   },
   {
     "name": "Automotive Grade Linux All Member Meeting",
