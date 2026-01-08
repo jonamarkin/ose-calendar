@@ -819,13 +819,22 @@
     "original_date": "7th - 9th October"
   },
   {
-    "name": "Embedded Linux Conference Euuope",
+    "name": "Embedded Linux Conference Europe",
     "url": "https://events.linuxfoundation.org/embedded-linux-conference-europe/",
     "start_date": "2026-10-07",
     "end_date": "2026-10-10",
     "mode": "In-person",
     "location": "Prague, Czechia",
     "original_date": "7th - 9th October"
+  },
+  {
+    "name": "PyCon Greece 2026",
+    "url": "https://2026.pycon.gr/",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-14",
+    "mode": "In-person",
+    "location": "Technopolis City of Athens, Athens, Greece",
+    "original_date": "12th - 13th October"
   },
   {
     "name": "All Things Open",
