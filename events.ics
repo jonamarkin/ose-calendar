@@ -4,8 +4,8 @@ PRODID:-//Open Source Events//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:71cal9l77sb@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:i0hrr1pxjae@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260121T000000Z
 DTEND:20260124T000000Z
 SUMMARY:Everything Open 2026
@@ -14,8 +14,8 @@ URL:https://2026.everythingopen.au/
 LOCATION:University of Canberra, Canberra, Australia
 END:VEVENT
 BEGIN:VEVENT
-UID:hfartmwpykk@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:fqpt45d4xu4@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260121T000000Z
 DTEND:20260126T000000Z
 SUMMARY:FOSS4G Asia
@@ -24,8 +24,8 @@ URL:https://foss4g.asia/2026/
 LOCATION:Nashik, India
 END:VEVENT
 BEGIN:VEVENT
-UID:kbbw6cl126@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:v4xsy4e021p@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260128T000000Z
 DTEND:20260129T000000Z
 SUMMARY:Software Heritage 2026 Symposium and Summit
@@ -34,8 +34,8 @@ URL:https://www.softwareheritage.org/2025/11/25/software_heritage_2026_symposium
 LOCATION:Paris, France
 END:VEVENT
 BEGIN:VEVENT
-UID:so7jmvj6g9l@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:nazle3oaqkm@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260128T000000Z
 DTEND:20260130T000000Z
 SUMMARY:Linux Foundation Decentralized Trust
@@ -44,8 +44,8 @@ URL:https://www.lfdecentralizedtrust.org/events/member-summit-202526?hsLang=en
 LOCATION:Jersey City, New Jersey, USA
 END:VEVENT
 BEGIN:VEVENT
-UID:c9sdl1gzhop@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:0nlpzypjnbt@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260129T000000Z
 DTEND:20260130T000000Z
 SUMMARY:Simpl Annual Community Event 2026
@@ -54,8 +54,8 @@ URL:https://internationaldataspaces.org/events/simpl-annual-community-event-2026
 LOCATION:Brussels, Belgium
 END:VEVENT
 BEGIN:VEVENT
-UID:iqbdoqcc62s@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:2t9ykwa1h04@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260129T000000Z
 DTEND:20260130T000000Z
 SUMMARY:Drupal4Gov EU Conference 2026
@@ -64,8 +64,8 @@ URL:https://drupal4gov.eu/
 LOCATION:Brussels, Belgium
 END:VEVENT
 BEGIN:VEVENT
-UID:9406khde7hk@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:y34ophudqwp@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260129T000000Z
 DTEND:20260130T000000Z
 SUMMARY:Eclipse Foundation's code & compliance - FOSDEM Edition
@@ -74,8 +74,8 @@ URL:https://www.eclipse-foundation.events/event/code-compliance-2026/summary
 LOCATION:Brussels, Belgium
 END:VEVENT
 BEGIN:VEVENT
-UID:3diwt6b45i5@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:tr9bj54lmm@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260129T000000Z
 DTEND:20260130T000000Z
 SUMMARY:The European Open Source Awards
@@ -84,8 +84,8 @@ URL:https://europeanopensource.academy/awards
 LOCATION:Brussels, Belgium
 END:VEVENT
 BEGIN:VEVENT
-UID:ufn81apxp8d@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:r8vfcf5zt6@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260129T000000Z
 DTEND:20260130T000000Z
 SUMMARY:EU Open Souce Policy Summit 2026
@@ -94,8 +94,8 @@ URL:https://summit.openforumeurope.org/
 LOCATION:Brussels, Belgium
 END:VEVENT
 BEGIN:VEVENT
-UID:km3b79gjoem@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:rjhuglmptt@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260130T000000Z
 DTEND:20260131T000000Z
 SUMMARY:FOSDEM 2026 Fringe: FOSS license and security compliance tools workshop
@@ -104,8 +104,8 @@ URL:https://workshop.aboutcode.org/
 LOCATION:Brussels, Belgium
 END:VEVENT
 BEGIN:VEVENT
-UID:ws0x067wxrb@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:5tsvb2c28on@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260131T000000Z
 DTEND:20260202T000000Z
 SUMMARY:FOSDEM 26
@@ -114,8 +114,8 @@ URL:https://fosdem.org/2026
 LOCATION:Brussels, Belgium
 END:VEVENT
 BEGIN:VEVENT
-UID:5wfzst5szrc@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:688wy03uxes@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260202T000000Z
 DTEND:20260203T000000Z
 SUMMARY:OpenEmbedded Workshop 2026
@@ -124,8 +124,8 @@ URL:https://pretalx.com/openembedded-workshop-2026-2025/
 LOCATION:Brussels, Belgium
 END:VEVENT
 BEGIN:VEVENT
-UID:fxvt00ucgvc@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:n3mnxxsw2vd@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260202T000000Z
 DTEND:20260205T000000Z
 SUMMARY:Config Management Camp
@@ -134,8 +134,8 @@ URL:https://cfgmgmtcamp.org/ghent2026/
 LOCATION:Ghent, Belgium
 END:VEVENT
 BEGIN:VEVENT
-UID:8ip9lcogyc8@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:ht01d18i5eg@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260204T000000Z
 DTEND:20260207T000000Z
 SUMMARY:CityJS Singapore
@@ -144,8 +144,8 @@ URL:https://singapore.cityjsconf.org/?utm_source=cityjs_homecard&utm_medium=butt
 LOCATION:LifeLong Learning Institute, Singapore
 END:VEVENT
 BEGIN:VEVENT
-UID:f8anop6xpy@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:8zw6mgsc6h5@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260207T000000Z
 DTEND:20260208T000000Z
 SUMMARY:PyTorch Day India
@@ -154,8 +154,8 @@ URL:https://events.linuxfoundation.org/pytorch-day-india/
 LOCATION:Bengaluru, India
 END:VEVENT
 BEGIN:VEVENT
-UID:bcy7dgui24v@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:wlamkhjscb@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260213T000000Z
 DTEND:20260215T000000Z
 SUMMARY:DevConf.IN
@@ -164,8 +164,8 @@ URL:https://www.devconf.info/in/
 LOCATION:Pune, India
 END:VEVENT
 BEGIN:VEVENT
-UID:pj2sy6a4rpn@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:4gdnl4nkddc@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260218T000000Z
 DTEND:20260220T000000Z
 SUMMARY:CityJS New Delhi
@@ -174,8 +174,8 @@ URL:https://india.cityjsconf.org/?utm_source=cityjs_homecard&utm_medium=card&utm
 LOCATION:Shankar Lal Concert Hall, New Delhi, India
 END:VEVENT
 BEGIN:VEVENT
-UID:jlzy2b63xa@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:4zlzww70j8p@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260220T000000Z
 DTEND:20260227T000000Z
 SUMMARY:PyCon Namibia 2026
@@ -184,8 +184,8 @@ URL:https://na.pycon.org/
 LOCATION:Namibia
 END:VEVENT
 BEGIN:VEVENT
-UID:zin9l2s2zf@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:jps41mf9a7a@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260224T000000Z
 DTEND:20260226T000000Z
 SUMMARY:LF Member Summit
@@ -194,8 +194,8 @@ URL:https://events.linuxfoundation.org/lf-member-summit/
 LOCATION:Napa, California, USA
 END:VEVENT
 BEGIN:VEVENT
-UID:tvlgcul0pzg@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:d2svrx0bhn@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260226T000000Z
 DTEND:20260227T000000Z
 SUMMARY:Open Source Forum
@@ -204,8 +204,8 @@ URL:https://events.linuxfoundation.org/aswf-open-source-forum/
 LOCATION:Los Angeles, California, USA
 END:VEVENT
 BEGIN:VEVENT
-UID:jpry88xn9z9@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:bqgif7uv7n8@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260302T000000Z
 DTEND:20260304T000000Z
 SUMMARY:Laracon EU
@@ -214,8 +214,8 @@ URL:https://laracon.eu/
 LOCATION:Amsterdam, Netherlands
 END:VEVENT
 BEGIN:VEVENT
-UID:reezlda6ng8@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:wh4945pr2j@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260305T000000Z
 DTEND:20260309T000000Z
 SUMMARY:SCaLE 23x
@@ -224,8 +224,8 @@ URL:https://www.socallinuxexpo.org/scale/23x/
 LOCATION:Pasadena, California, USA
 END:VEVENT
 BEGIN:VEVENT
-UID:klpok07lq4@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:w2jbhdlna2p@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260309T000000Z
 DTEND:20260311T000000Z
 SUMMARY:FOSSASIA Summit
@@ -234,8 +234,8 @@ URL:https://eventyay.com/e/88882f3e
 LOCATION:Bankok, Thailand
 END:VEVENT
 BEGIN:VEVENT
-UID:drjulm3halc@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:rat25bk3w5p@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260310T000000Z
 DTEND:20260313T000000Z
 SUMMARY:Zephyr at Embedded World Exhibition & Conference
@@ -244,8 +244,8 @@ URL:https://zephyrproject.org/event/embedded-world-exhibition-conference-nurembe
 LOCATION:Nuremberg, Germany
 END:VEVENT
 BEGIN:VEVENT
-UID:dv0ebz49hbb@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:rl8c0eoe3na@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260316T000000Z
 DTEND:20260318T000000Z
 SUMMARY:FOSS Backstage
@@ -254,8 +254,8 @@ URL:https://26.foss-backstage.de/
 LOCATION:Berlin, Germany
 END:VEVENT
 BEGIN:VEVENT
-UID:jpumir1mg6@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:7as65pvr3k4@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260316T000000Z
 DTEND:20260318T000000Z
 SUMMARY:High Performance Software Foundation Conference 2026
@@ -264,8 +264,8 @@ URL:https://events.linuxfoundation.org/hpsf-conference/
 LOCATION:Chicago, Illinois, USA
 END:VEVENT
 BEGIN:VEVENT
-UID:4k4vhdwb4za@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:ihefiydm2u@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260317T000000Z
 DTEND:20260319T000000Z
 SUMMARY:OpenSearchCon China
@@ -274,8 +274,8 @@ URL:https://www.lfasiallc.com/opensearchcon-china/
 LOCATION:Shanghai, China
 END:VEVENT
 BEGIN:VEVENT
-UID:fz9bg1huvcf@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:vjr789902o@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260319T000000Z
 DTEND:20260321T000000Z
 SUMMARY:Monkigras
@@ -284,8 +284,8 @@ URL:https://monkigras.com/
 LOCATION:London, UK
 END:VEVENT
 BEGIN:VEVENT
-UID:56m5o7qdyzi@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:wgyu0mz80l@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260323T000000Z
 DTEND:20260325T000000Z
 SUMMARY:George Washington University Open Source Conference (GW OSCON)
@@ -294,8 +294,8 @@ URL:https://ospo.gwu.edu/open-source-conference-gw-oscon
 LOCATION:Washington D
 END:VEVENT
 BEGIN:VEVENT
-UID:yjaka6sxnwc@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:lugnpuwroo@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260323T000000Z
 DTEND:20260324T000000Z
 SUMMARY:Open Source SecurityCon Europe
@@ -304,8 +304,8 @@ URL:https://openssf.org/event/open-source-securitycon-2026/
 LOCATION:Amsterdam, The Netherlands
 END:VEVENT
 BEGIN:VEVENT
-UID:njlqgiknt8@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:1gye3lffkcz@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260323T000000Z
 DTEND:20260327T000000Z
 SUMMARY:KubeCon/CloudNativeCon EU
@@ -314,8 +314,8 @@ URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
 LOCATION:Amsterdam, The Netherlands
 END:VEVENT
 BEGIN:VEVENT
-UID:0rb4sc5tt64@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:nwzxe3ddy1@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260323T000000Z
 DTEND:20260324T000000Z
 SUMMARY:Cloud Native AI + Kubeflow Day
@@ -324,8 +324,8 @@ URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-
 LOCATION:Amsterdam, The Netherlands
 END:VEVENT
 BEGIN:VEVENT
-UID:lerfw264fal@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:ps5hbopx2vp@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260323T000000Z
 DTEND:20260324T000000Z
 SUMMARY:Cloud Native Telco Day
@@ -334,8 +334,8 @@ URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-
 LOCATION:Amsterdam, The Netherlands
 END:VEVENT
 BEGIN:VEVENT
-UID:d7dymzgr95n@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:5ji9o5u70p5@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260323T000000Z
 DTEND:20260324T000000Z
 SUMMARY:CiliumCon Europe
@@ -344,8 +344,8 @@ URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-
 LOCATION:Amsterdam, The Netherlands
 END:VEVENT
 BEGIN:VEVENT
-UID:5oatf0wmu4v@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:xkimmfkpoq@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260323T000000Z
 DTEND:20260324T000000Z
 SUMMARY:fluxCon Europe
@@ -354,8 +354,8 @@ URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-
 LOCATION:Amsterdam, The Netherlands
 END:VEVENT
 BEGIN:VEVENT
-UID:rwxtw03s6i@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:p4a23uycpf@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260323T000000Z
 DTEND:20260324T000000Z
 SUMMARY:KeycloakCon Europe
@@ -364,8 +364,8 @@ URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-
 LOCATION:Amsterdam, The Netherlands
 END:VEVENT
 BEGIN:VEVENT
-UID:mq9ec5fllb@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:yyrg3i3l16@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260323T000000Z
 DTEND:20260324T000000Z
 SUMMARY:Kubernetes on Edge Day Europe
@@ -374,8 +374,8 @@ URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-
 LOCATION:Amsterdam, The Netherlands
 END:VEVENT
 BEGIN:VEVENT
-UID:z7mdfvrqyl@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:zdugk0bxlo@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260323T000000Z
 DTEND:20260324T000000Z
 SUMMARY:KyvernoCon Europe
@@ -384,8 +384,8 @@ URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-
 LOCATION:Amsterdam, The Netherlands
 END:VEVENT
 BEGIN:VEVENT
-UID:8i3fwqx6eb3@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:70eedofwvbq@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260323T000000Z
 DTEND:20260324T000000Z
 SUMMARY:Observability Day Europe
@@ -394,8 +394,8 @@ URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-
 LOCATION:Amsterdam, The Netherlands
 END:VEVENT
 BEGIN:VEVENT
-UID:x3qun70lvy@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:nggene2gtep@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260323T000000Z
 DTEND:20260324T000000Z
 SUMMARY:Open Source SecurityCon Europe
@@ -404,8 +404,8 @@ URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-
 LOCATION:Amsterdam, The Netherlands
 END:VEVENT
 BEGIN:VEVENT
-UID:5zr0rlsk3j5@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:rh8n9lafutt@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260323T000000Z
 DTEND:20260324T000000Z
 SUMMARY:OpenTofu Day Europe
@@ -414,8 +414,8 @@ URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-
 LOCATION:Amsterdam, The Netherlands
 END:VEVENT
 BEGIN:VEVENT
-UID:id36zgb3dz@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:z5jr0dlbvjr@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260323T000000Z
 DTEND:20260324T000000Z
 SUMMARY:Platform Engineering Day Europe
@@ -424,8 +424,8 @@ URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-
 LOCATION:Amsterdam, The Netherlands
 END:VEVENT
 BEGIN:VEVENT
-UID:hur9i5yxkju@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:1skemdngzb2@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260323T000000Z
 DTEND:20260324T000000Z
 SUMMARY:WasmCon Europe
@@ -434,8 +434,8 @@ URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-
 LOCATION:Amsterdam, The Netherlands
 END:VEVENT
 BEGIN:VEVENT
-UID:g0j88vy8juj@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:l4sxkdl6n9n@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260329T000000Z
 DTEND:20260331T000000Z
 SUMMARY:Chemnitz Linux Days
@@ -444,8 +444,8 @@ URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-
 LOCATION:Chemnitzer, Germany
 END:VEVENT
 BEGIN:VEVENT
-UID:0o9098e5kvfd@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:8pjg1hk997r@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260408T000000Z
 DTEND:20260411T000000Z
 SUMMARY:PyCon Lithuania
@@ -454,8 +454,8 @@ URL:https://pycon.lt/2026
 LOCATION:Vilnius, Lithuania
 END:VEVENT
 BEGIN:VEVENT
-UID:lu9nhvqaa5i@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:sqb9kd8f2bm@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260413T000000Z
 DTEND:20260417T000000Z
 SUMMARY:VulnCon 2026
@@ -464,8 +464,8 @@ URL:https://www.first.org/conference/vulncon26/cfs
 LOCATION:Paradise Valley, Scottsdale, Arizona, USA
 END:VEVENT
 BEGIN:VEVENT
-UID:0wfujemi2pd8@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:ioxebun8ijh@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260414T000000Z
 DTEND:20260417T000000Z
 SUMMARY:PyCon DE & PyData 2026
@@ -474,8 +474,8 @@ URL:https://2026.pycon.de/
 LOCATION:Frankfurt, Germany
 END:VEVENT
 BEGIN:VEVENT
-UID:bfrjuk0huuq@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:xx57q6b3iu@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260415T000000Z
 DTEND:20260418T000000Z
 SUMMARY:Free Software Legal and Licensing Workshop 2026
@@ -484,8 +484,8 @@ URL:https://pretalx.com/llw2026/cfp
 LOCATION:Berlin, Germany
 END:VEVENT
 BEGIN:VEVENT
-UID:1fzth4b8v4w@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:6lxdgevyoys@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260416T000000Z
 DTEND:20260418T000000Z
 SUMMARY:OpenSearchCon Europe
@@ -494,8 +494,8 @@ URL:https://events.linuxfoundation.org/opensearchcon-europe/
 LOCATION:Prague, Czechia
 END:VEVENT
 BEGIN:VEVENT
-UID:hgog6sq7f37@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:f9q2orbmhot@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260416T000000Z
 DTEND:20260419T000000Z
 SUMMARY:Nerdearla Chile
@@ -504,8 +504,8 @@ URL:https://nerdearla.cl/
 LOCATION:Santiago de Chile, Chile
 END:VEVENT
 BEGIN:VEVENT
-UID:64qdivv9qdj@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:zccp6ftpkhj@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260417T000000Z
 DTEND:20260420T000000Z
 SUMMARY:PyTexas
@@ -514,8 +514,8 @@ URL:https://www.pytexas.org/2026/
 LOCATION:Austin, Texas
 END:VEVENT
 BEGIN:VEVENT
-UID:blwagew2hi@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:5d5e2klk0g6@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260420T000000Z
 DTEND:20260423T000000Z
 SUMMARY:GrafanaCon
@@ -524,8 +524,8 @@ URL:https://grafana.com/events/grafanacon/
 LOCATION:Barcelona, Spain
 END:VEVENT
 BEGIN:VEVENT
-UID:g74zlj75o9i@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:z19pnua3f1d@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260421T000000Z
 DTEND:20260424T000000Z
 SUMMARY:Open Community Experience (OCX) 2026
@@ -534,8 +534,8 @@ URL:https://www.ocxconf.org/event/2026/summary
 LOCATION:Brussels, Belgium
 END:VEVENT
 BEGIN:VEVENT
-UID:ufsbqkb9t9i@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:41x48xttrl8@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260424T000000Z
 DTEND:20260427T000000Z
 SUMMARY:LinuxFest Northwest
@@ -544,8 +544,8 @@ URL:https://www.linuxfestnorthwest.org/
 LOCATION:Bellingham, Washington, USA
 END:VEVENT
 BEGIN:VEVENT
-UID:4s136440vob@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:a7rvpzgtnpj@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260503T000000Z
 DTEND:20260506T000000Z
 SUMMARY:Write the Docs
@@ -554,8 +554,8 @@ URL:https://www.writethedocs.org/conf/portland/2026/
 LOCATION:Portland, Oregon, USA
 END:VEVENT
 BEGIN:VEVENT
-UID:rkqc5h2pww@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:bzu9musjgd7@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260511T000000Z
 DTEND:20260515T000000Z
 SUMMARY:Red Hat Summit
@@ -564,8 +564,8 @@ URL:https://www.redhat.com/en/summit
 LOCATION:Atlanta, Georgia, USA
 END:VEVENT
 BEGIN:VEVENT
-UID:tvo9s5uof4@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:79yjr051tj@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260513T000000Z
 DTEND:20260520T000000Z
 SUMMARY:PyCon US
@@ -574,8 +574,8 @@ URL:https://us.pycon.org/2026/
 LOCATION:Long Beach, California, USA
 END:VEVENT
 BEGIN:VEVENT
-UID:8e28ytvs00c@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:0buu7jxa6pli@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260518T000000Z
 DTEND:20260521T000000Z
 SUMMARY:Open Source Summit North America
@@ -584,8 +584,8 @@ URL:https://events.linuxfoundation.org/open-source-summit-north-america/
 LOCATION:Minneapolis, Minnesota, USA
 END:VEVENT
 BEGIN:VEVENT
-UID:6bwhvtpw4k5@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:7fi4tl5nthh@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260518T000000Z
 DTEND:20260521T000000Z
 SUMMARY:Embedded Linux Conference North America
@@ -594,8 +594,8 @@ URL:https://events.linuxfoundation.org/embedded-linux-conference-north-america/
 LOCATION:Minneapolis, Minnesota, USA
 END:VEVENT
 BEGIN:VEVENT
-UID:exqvjbmdj1s@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:d1ea7osh127@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260518T000000Z
 DTEND:20260523T000000Z
 SUMMARY:Beethoven Sprint 2026
@@ -604,8 +604,8 @@ URL:https://plone.org/news-and-events/events/sprints/beethoven-sprint-2026
 LOCATION:kitconcept office, Bonn, Germany
 END:VEVENT
 BEGIN:VEVENT
-UID:9kn0dda31ar@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:tmf4d1mspp@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260521T000000Z
 DTEND:20260522T000000Z
 SUMMARY:OpenSSF Community Day North America 2026
@@ -614,8 +614,8 @@ URL:https://openssf.org/event/openssf-community-day-north-america-2026/
 LOCATION:Minneapolis, Minnesota
 END:VEVENT
 BEGIN:VEVENT
-UID:19xpks1bmv2@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:4bc0d9paxbo@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260521T000000Z
 DTEND:20260523T000000Z
 SUMMARY:Observability Summit North America
@@ -624,8 +624,8 @@ URL:https://events.linuxfoundation.org/observability-summit-north-america/
 LOCATION:Minneapolis, Minnesota, USA
 END:VEVENT
 BEGIN:VEVENT
-UID:bl6sn303izk@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:a13sqw6tl6q@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260526T000000Z
 DTEND:20260527T000000Z
 SUMMARY:Platmosphere Chapter 2026 Master the Vibe
@@ -634,8 +634,8 @@ URL:https://platmosphere.com/
 LOCATION:Milan, Italy
 END:VEVENT
 BEGIN:VEVENT
-UID:z5nx6mbfhas@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:ov8p6k9zur@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260527T000000Z
 DTEND:20260531T000000Z
 SUMMARY:PyCon Italia
@@ -644,8 +644,8 @@ URL:https://2026.pycon.it/en
 LOCATION:Bologna, Italy
 END:VEVENT
 BEGIN:VEVENT
-UID:7jo86zhngkv@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:458hi3ds7zq@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260601T000000Z
 DTEND:20260604T000000Z
 SUMMARY:Neos Conference 2026
@@ -654,8 +654,8 @@ URL:https://www.neoscon.io/
 LOCATION:Genohotel Karlsruhe, Germany
 END:VEVENT
 BEGIN:VEVENT
-UID:w6gd3lhmoin@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:fkb155g1ele@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260607T000000Z
 DTEND:20260610T000000Z
 SUMMARY:Berlin Buzzwords
@@ -664,8 +664,8 @@ URL:https://2026.berlinbuzzwords.de/
 LOCATION:Berlin, Germany
 END:VEVENT
 BEGIN:VEVENT
-UID:xl71kcoyh89@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:7hk6voozss4@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260608T000000Z
 DTEND:20260613T000000Z
 SUMMARY:Pole Position Sprint
@@ -674,8 +674,8 @@ URL:https://plone.org/news-and-events/events/sprints/pole-position-sprint-2026
 LOCATION:Kerpen, Germany
 END:VEVENT
 BEGIN:VEVENT
-UID:v0uupj7rbr@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:b2venr4phfd@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260608T000000Z
 DTEND:20260613T000000Z
 SUMMARY:International PhP Conference
@@ -684,8 +684,8 @@ URL:https://phpconference.com/berlin-en/
 LOCATION:Maritim proArte Berlin, Germany
 END:VEVENT
 BEGIN:VEVENT
-UID:7n7hvs9734u@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:l1k8xq05y3@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260610T000000Z
 DTEND:20260612T000000Z
 SUMMARY:Umbraco Codegarden
@@ -694,8 +694,8 @@ URL:https://codegarden.umbraco.com/
 LOCATION:Copenhagen, Denmark
 END:VEVENT
 BEGIN:VEVENT
-UID:35ruwjgb73c@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:909tx52g6ng@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260612T000000Z
 DTEND:20260617T000000Z
 SUMMARY:React Summit
@@ -704,8 +704,8 @@ URL:https://reactsummit.com/
 LOCATION:Amsterdam, Netherlands
 END:VEVENT
 BEGIN:VEVENT
-UID:7pcvftfla2i@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:0biv7p25sss@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260615T000000Z
 DTEND:20260617T000000Z
 SUMMARY:OpenSearchCon India
@@ -714,8 +714,8 @@ URL:https://events.linuxfoundation.org/opensearchcon-india/
 LOCATION:Mumbai, India
 END:VEVENT
 BEGIN:VEVENT
-UID:zwg5dtes6kd@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:jleautt30c@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260616T000000Z
 DTEND:20260618T000000Z
 SUMMARY:Open Source Summit India
@@ -724,8 +724,8 @@ URL:https://events.linuxfoundation.org/open-source-summit-india/
 LOCATION:Mumbai, India
 END:VEVENT
 BEGIN:VEVENT
-UID:ytkomtqk0oq@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:mwnqnuldqw@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260618T000000Z
 DTEND:20260621T000000Z
 SUMMARY:DevConf.CZ
@@ -734,8 +734,8 @@ URL:https://www.devconf.info/cz/
 LOCATION:Brno, Czechia
 END:VEVENT
 BEGIN:VEVENT
-UID:lvrdlum9meo@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:m8v1sbpe6b@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260618T000000Z
 DTEND:20260620T000000Z
 SUMMARY:KubeCon + CloudNativeCon India
@@ -744,8 +744,8 @@ URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-india/
 LOCATION:Mumbai, India
 END:VEVENT
 BEGIN:VEVENT
-UID:j0govta31y@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:lqi5xt12hoa@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260622T000000Z
 DTEND:20260627T000000Z
 SUMMARY:UN Open Source Week
@@ -754,8 +754,8 @@ URL:https://www.un.org/digital-emerging-technologies/content/open-source-week-20
 LOCATION:New York City, New York, USA
 END:VEVENT
 BEGIN:VEVENT
-UID:r5951wl39@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:ev6bkeaju7n@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260622T000000Z
 DTEND:20260627T000000Z
 SUMMARY:OWASP Global AppSec EU 2026
@@ -764,8 +764,8 @@ URL:https://owasp.glueup.com/event/owasp-global-appsec-eu-2026-vienna-austria-16
 LOCATION:Vienna, Austria
 END:VEVENT
 BEGIN:VEVENT
-UID:zngtmky0li@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:0vldz1nt00xb@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260625T000000Z
 DTEND:20260626T000000Z
 SUMMARY:Open Source in Finance Forum London
@@ -774,8 +774,8 @@ URL:https://events.linuxfoundation.org/open-source-finance-forum-london/
 LOCATION:London, England
 END:VEVENT
 BEGIN:VEVENT
-UID:ixf6lk6ts1@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:go8geedeexf@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260630T000000Z
 DTEND:20260701T000000Z
 SUMMARY:Automotive Oopen Source Summit 2026
@@ -784,8 +784,8 @@ URL:https://www.automotive-oss.org/event/2026/summary
 LOCATION:Starnberg, Germany
 END:VEVENT
 BEGIN:VEVENT
-UID:va5p2egdlfc@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:niq6njq4zu@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260716T000000Z
 DTEND:20260718T000000Z
 SUMMARY:DroidCon
@@ -794,8 +794,8 @@ URL:https://usa.droidcon.com/
 LOCATION:Orlando, Florida, USA
 END:VEVENT
 BEGIN:VEVENT
-UID:3ez1lr655d7@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:0gckgnqf3wr6@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260716T000000Z
 DTEND:20260718T000000Z
 SUMMARY:FlutterCon
@@ -804,8 +804,8 @@ URL:https://www.flutterconusa.dev/
 LOCATION:Orlando, Florida, USA
 END:VEVENT
 BEGIN:VEVENT
-UID:n1ub2zk9uk@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:vt1z0i7p0b@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260719T000000Z
 DTEND:20260720T000000Z
 SUMMARY:Open Source Days
@@ -814,8 +814,8 @@ URL:https://events.linuxfoundation.org/open-source-days/
 LOCATION:Los Angeles, California, USA
 END:VEVENT
 BEGIN:VEVENT
-UID:iwar25wgkx@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:5hxbo247wn9@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260729T000000Z
 DTEND:20260731T000000Z
 SUMMARY:KubeCon + CloudNativeCon Japan
@@ -824,8 +824,8 @@ URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/
 LOCATION:Yokohama, Japan
 END:VEVENT
 BEGIN:VEVENT
-UID:373oad7zl5g@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:xv134snt78@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260808T000000Z
 DTEND:20260812T000000Z
 SUMMARY:DefCon Training
@@ -834,8 +834,8 @@ URL:https://training.defcon.org/pages/2026-las-vegas-call-for-trainers
 LOCATION:Las Vegas, Nevada, USA
 END:VEVENT
 BEGIN:VEVENT
-UID:24qt3rvosaf@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:pl3z38ilae@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260826T000000Z
 DTEND:20260831T000000Z
 SUMMARY:PyCon Australia
@@ -844,8 +844,8 @@ URL:https://2026.pycon.org.au/
 LOCATION:Brisbane, Australia
 END:VEVENT
 BEGIN:VEVENT
-UID:hhwa0mliuq9@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:xh4734lgofj@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260830T000000Z
 DTEND:20260906T000000Z
 SUMMARY:FOSS4G Hiroshima
@@ -854,8 +854,8 @@ URL:https://www.osgeo.jp/foss4g-2026-hiroshima
 LOCATION:Hiroshima, Japan
 END:VEVENT
 BEGIN:VEVENT
-UID:pd53py5azh@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:14gf09usq12@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260831T000000Z
 DTEND:20260903T000000Z
 SUMMARY:Airflow Summit
@@ -864,8 +864,8 @@ URL:https://airflowsummit.org/
 LOCATION:Austin, Texas, USA
 END:VEVENT
 BEGIN:VEVENT
-UID:j4s6gopm89@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:6u25ucbkvbh@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260908T000000Z
 DTEND:20260910T000000Z
 SUMMARY:KubeCon + CloudNativeCon + OpenInfra China
@@ -874,8 +874,8 @@ URL:https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-china/
 LOCATION:Shanghai, China
 END:VEVENT
 BEGIN:VEVENT
-UID:zd3qvytw0wc@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:8dt5695bixx@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260922T000000Z
 DTEND:20260927T000000Z
 SUMMARY:Nerdearla Argentina
@@ -884,8 +884,8 @@ URL:https://nerdear.la/
 LOCATION:Buenos Aires, Argentina
 END:VEVENT
 BEGIN:VEVENT
-UID:wromp5afl09@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:ta1si7fchwc@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20260930T000000Z
 DTEND:20261002T000000Z
 SUMMARY:Automotive Grade Linux All Member Meeting
@@ -894,8 +894,8 @@ URL:https://events.linuxfoundation.org/agl-amm-europe/
 LOCATION:Berlin, Germany
 END:VEVENT
 BEGIN:VEVENT
-UID:zdxy537gz9p@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:y5kbb46c25q@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20261007T000000Z
 DTEND:20261010T000000Z
 SUMMARY:FlutterCon Europe
@@ -904,8 +904,8 @@ URL:https://www.nextappcon.com/fluttercon
 LOCATION:Berlin, Germany
 END:VEVENT
 BEGIN:VEVENT
-UID:vc2chg3ayes@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:4i4rlg37dv5@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20261007T000000Z
 DTEND:20261010T000000Z
 SUMMARY:Open Source Summit Europe
@@ -914,8 +914,8 @@ URL:https://events.linuxfoundation.org/open-source-summit-europe/
 LOCATION:Prague, Czechia
 END:VEVENT
 BEGIN:VEVENT
-UID:o6if5v9hrv@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:ju4iqddqkeb@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20261007T000000Z
 DTEND:20261010T000000Z
 SUMMARY:Embedded Linux Conference Europe
@@ -924,8 +924,8 @@ URL:https://events.linuxfoundation.org/embedded-linux-conference-europe/
 LOCATION:Prague, Czechia
 END:VEVENT
 BEGIN:VEVENT
-UID:d886y62jopm@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:t6img4l6xb@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20261012T000000Z
 DTEND:20261014T000000Z
 SUMMARY:PyCon Greece 2026
@@ -934,8 +934,8 @@ URL:https://2026.pycon.gr/
 LOCATION:Technopolis City of Athens, Athens, Greece
 END:VEVENT
 BEGIN:VEVENT
-UID:149y28i6w86b@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:virxglm09ad@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20261018T000000Z
 DTEND:20261021T000000Z
 SUMMARY:All Things Open
@@ -944,8 +944,8 @@ URL:https://allthingsopen.org/events/all-things-open-2026
 LOCATION:Raleigh, North Carolina, USA
 END:VEVENT
 BEGIN:VEVENT
-UID:7drurvyipzo@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:qc3js1isje@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20261020T000000Z
 DTEND:20261022T000000Z
 SUMMARY:PyTorch Conference 2026
@@ -954,8 +954,8 @@ URL:https://events.linuxfoundation.org/pytorch-conference-2026/
 LOCATION:San Jose, California, USA
 END:VEVENT
 BEGIN:VEVENT
-UID:qs0tnf0prhs@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:uhk1fkntx0j@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20261021T000000Z
 DTEND:20261022T000000Z
 SUMMARY:CityJS Athens
@@ -964,8 +964,8 @@ URL:https://greece.cityjsconf.org/?utm_source=cityjs_homecard&utm_medium=card&ut
 LOCATION:Athens War Museum, Athens, Greece
 END:VEVENT
 BEGIN:VEVENT
-UID:smx6z98wboi@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:u8zhcbjz3eo@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20261026T000000Z
 DTEND:20261030T000000Z
 SUMMARY:IBM TechXchange
@@ -974,8 +974,8 @@ URL:https://www.ibm.com/community/ibm-techxchange-conference/
 LOCATION:Atlanta, Georgia, USA
 END:VEVENT
 BEGIN:VEVENT
-UID:n405j0ainvm@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:me09h652i4@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20261104T000000Z
 DTEND:20261106T000000Z
 SUMMARY:Open Source in Finance Forum New York
@@ -984,8 +984,8 @@ URL:https://events.linuxfoundation.org/open-source-finance-forum-new-york/
 LOCATION:New York City, New York, USA
 END:VEVENT
 BEGIN:VEVENT
-UID:ka2kkdi78e@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:satwr6kib19@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20261106T000000Z
 DTEND:20261108T000000Z
 SUMMARY:Texas Linux Fest
@@ -994,8 +994,8 @@ URL:https://2026.texaslinuxfest.org/
 LOCATION:Austin, Texas, USA
 END:VEVENT
 BEGIN:VEVENT
-UID:r7v3oqfteml@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:azk8813km6e@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20261109T000000Z
 DTEND:20261113T000000Z
 SUMMARY:KubeCon + CloudNativeCon North America
@@ -1004,8 +1004,8 @@ URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026
 LOCATION:Salt Lake City, Utah, USA
 END:VEVENT
 BEGIN:VEVENT
-UID:ukr23uf7ke@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:6iicpzi02yk@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20261113T000000Z
 DTEND:20261114T000000Z
 SUMMARY:Akademy 2026
@@ -1014,8 +1014,8 @@ URL:https://akademy.kde.org/
 LOCATION:Graz, Austria
 END:VEVENT
 BEGIN:VEVENT
-UID:wf4ct97lfb@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:7watn0lgw2y@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20261207T000000Z
 DTEND:20261210T000000Z
 SUMMARY:Open Source Summit Japan
@@ -1024,8 +1024,8 @@ URL:https://events.linuxfoundation.org/open-source-summit-japan-2026/
 LOCATION:Tokyo, Japan
 END:VEVENT
 BEGIN:VEVENT
-UID:lx3ns3pmk4@opensourceevents.com
-DTSTAMP:20260108T000000Z
+UID:kmi9nbs6ce@opensourceevents.com
+DTSTAMP:20260109T000000Z
 DTSTART:20261210T000000Z
 DTEND:20261212T000000Z
 SUMMARY:Open Compliance Summit
