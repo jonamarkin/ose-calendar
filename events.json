@@ -585,6 +585,15 @@
     "original_date": "1st - 3rd June"
   },
   {
+    "name": "OW2Con",
+    "url": "https://www.ow2con.org/view/2026/",
+    "start_date": "2026-06-02",
+    "end_date": "2026-06-04",
+    "mode": "In-person",
+    "location": "Paris-Châtillon, France",
+    "original_date": "2nd - 3rd June"
+  },
+  {
     "name": "Berlin Buzzwords",
     "url": "https://2026.berlinbuzzwords.de/",
     "start_date": "2026-06-07",
