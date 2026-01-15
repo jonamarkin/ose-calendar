@@ -81,6 +81,15 @@
     "original_date": "29th January"
   },
   {
+    "name": "CHAOSSCon EU 2026",
+    "url": "https://chaoss.community/chaosscon-2026-eu/",
+    "start_date": "2026-01-29",
+    "end_date": "2026-01-30",
+    "mode": "In-person",
+    "location": "Brussels, Belgium",
+    "original_date": "29th January"
+  },
+  {
     "name": "FOSDEM 2026 Fringe: FOSS license and security compliance tools workshop",
     "url": "https://workshop.aboutcode.org/",
     "start_date": "2026-01-30",
