@@ -216,6 +216,15 @@
     "original_date": "9th - 10th March"
   },
   {
+    "name": "PyAI Conf",
+    "url": "https://pyai.events/",
+    "start_date": "2026-03-10",
+    "end_date": "2026-03-11",
+    "mode": "In-person",
+    "location": "Shack15, Ferry Building, San Francisco, USA",
+    "original_date": "10th March"
+  },
+  {
     "name": "Zephyr at Embedded World Exhibition & Conference",
     "url": "https://zephyrproject.org/event/embedded-world-exhibition-conference-nuremberg-germany-2026/",
     "start_date": "2026-03-10",
@@ -223,6 +232,15 @@
     "mode": "In-person",
     "location": "Nuremberg, Germany",
     "original_date": "10th - 12th March"
+  },
+  {
+    "name": "PyConf Hyderabad",
+    "url": "https://2026.pyconfhyd.org/",
+    "start_date": "2026-03-14",
+    "end_date": "2026-03-16",
+    "mode": "In-person",
+    "location": "Engineering Staff College of India, Hyderabad, India",
+    "original_date": "14th - 15th March"
   },
   {
     "name": "FOSS Backstage",
@@ -259,6 +277,15 @@
     "mode": "In-person",
     "location": "London, UK",
     "original_date": "19th - 20th March"
+  },
+  {
+    "name": "PythonAsia",
+    "url": "https://2026.pythonasia.org/",
+    "start_date": "2026-03-21",
+    "end_date": "2026-03-24",
+    "mode": "In-person",
+    "location": "De La Salle University (DLSU), Manila, Philippines",
+    "original_date": "21st - 23rd March"
   },
   {
     "name": "George Washington University Open Source Conference (GW OSCON)",
