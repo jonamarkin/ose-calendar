@@ -873,6 +873,15 @@
     "original_date": "7th - 9th October"
   },
   {
+    "name": "Community Over Code (The Apache Software Foundation)",
+    "url": "https://communityovercode.org/",
+    "start_date": "2026-10-11",
+    "end_date": "2026-10-15",
+    "mode": "In-person",
+    "location": "Glasgow, Scotland",
+    "original_date": "11th - 14th October"
+  },
+  {
     "name": "PyCon Greece 2026",
     "url": "https://2026.pycon.gr/",
     "start_date": "2026-10-12",
