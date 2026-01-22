@@ -432,6 +432,15 @@
     "original_date": "29th - 30th March"
   },
   {
+    "name": "PyTorch Conference Europe",
+    "url": "https://events.linuxfoundation.org/pytorch-conference-europe/",
+    "start_date": "2026-04-07",
+    "end_date": "2026-04-09",
+    "mode": "In-person",
+    "location": "Paris, France",
+    "original_date": "7th - 8th April"
+  },
+  {
     "name": "PyCon Lithuania",
     "url": "https://pycon.lt/2026",
     "start_date": "2026-04-08",
