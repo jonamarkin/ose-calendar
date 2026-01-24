@@ -756,6 +756,15 @@
     "original_date": "30th June"
   },
   {
+    "name": "SciPy 2026",
+    "url": "https://www.scipy2026.scipy.org/",
+    "start_date": "2026-07-13",
+    "end_date": "2026-07-20",
+    "mode": "In-person",
+    "location": "Minneapolis, Minnesota, USA",
+    "original_date": "13th - 19th July"
+  },
+  {
     "name": "DroidCon",
     "url": "https://usa.droidcon.com/",
     "start_date": "2026-07-16",
@@ -772,6 +781,15 @@
     "mode": "In-person",
     "location": "Orlando, Florida, USA",
     "original_date": "16th - 17th July"
+  },
+  {
+    "name": "EuroSciPy 2026",
+    "url": "https://euroscipy.org/",
+    "start_date": "2026-07-18",
+    "end_date": "2026-07-24",
+    "mode": "In-person",
+    "location": "Krakow, Poland",
+    "original_date": "18th - 23rd July"
   },
   {
     "name": "Open Source Days",
