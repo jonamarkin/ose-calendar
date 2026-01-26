@@ -702,6 +702,15 @@
     "original_date": "16th - 17th June"
   },
   {
+    "name": "BSDCan",
+    "url": "https://www.bsdcan.org/2026/",
+    "start_date": "2026-06-17",
+    "end_date": "2026-06-21",
+    "mode": "In-person",
+    "location": "Ottawa, Canada",
+    "original_date": "17th - 20th June"
+  },
+  {
     "name": "DevConf.CZ",
     "url": "https://www.devconf.info/cz/",
     "start_date": "2026-06-18",
@@ -718,6 +727,15 @@
     "mode": "In-person",
     "location": "Mumbai, India",
     "original_date": "18th - 19th June"
+  },
+  {
+    "name": "Galaxy Community Conference",
+    "url": "https://galaxyproject.org/events/gcc2026/",
+    "start_date": "2026-06-22",
+    "end_date": "2026-06-27",
+    "mode": "In-person",
+    "location": "Clermont-Ferrand, France",
+    "original_date": "22nd - 26th June"
   },
   {
     "name": "UN Open Source Week",
