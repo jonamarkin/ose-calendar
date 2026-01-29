@@ -531,6 +531,15 @@
     "original_date": "24th - 26th April"
   },
   {
+    "name": "Stackconf",
+    "url": "https://stackconf.eu/",
+    "start_date": "2026-04-28",
+    "end_date": "2026-04-30",
+    "mode": "In-person",
+    "location": "Munich, Germany",
+    "original_date": "28th - 29th April"
+  },
+  {
     "name": "Write the Docs",
     "url": "https://www.writethedocs.org/conf/portland/2026/",
     "start_date": "2026-05-03",
@@ -538,6 +547,15 @@
     "mode": "In-person",
     "location": "Portland, Oregon, USA",
     "original_date": "3rd - 5th May"
+  },
+  {
+    "name": "IndabaX Nigeria",
+    "url": "https://indabaxng.github.io/",
+    "start_date": "2026-05-11",
+    "end_date": "2026-05-15",
+    "mode": "In-person",
+    "location": "University of Ibadan, Oyo State, Nigeria",
+    "original_date": "11th - 14th May"
   },
   {
     "name": "Red Hat Summit",
@@ -909,6 +927,15 @@
     "original_date": "30th September - 1st October"
   },
   {
+    "name": "Open Tech Day",
+    "url": "https://opentechday.de/",
+    "start_date": "2026-10-01",
+    "end_date": "2026-10-02",
+    "mode": "In-person",
+    "location": "Nuremberg, Germany",
+    "original_date": "1st October"
+  },
+  {
     "name": "FlutterCon Europe",
     "url": "https://www.nextappcon.com/fluttercon",
     "start_date": "2026-10-07",
@@ -1024,6 +1051,15 @@
     "mode": "In-person",
     "location": "Graz, Austria",
     "original_date": "13th November"
+  },
+  {
+    "name": "Open Source Monitoring Conference",
+    "url": "https://osmc.de/",
+    "start_date": "2026-11-17",
+    "end_date": "2026-11-20",
+    "mode": "In-person",
+    "location": "Nuremberg, Germany",
+    "original_date": "17th - 19th November"
   },
   {
     "name": "Open Source Summit Japan",
