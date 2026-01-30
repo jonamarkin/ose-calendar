@@ -909,13 +909,22 @@
     "original_date": "8th - 9th September"
   },
   {
+    "name": "CppCon 2026",
+    "url": "https://cppcon.org/about/",
+    "start_date": "2026-09-12",
+    "end_date": "2026-09-13",
+    "mode": "Hybrid",
+    "location": "Aurora, Colorado, USA",
+    "original_date": "12th- 18th September"
+  },
+  {
     "name": "Nerdearla Argentina",
     "url": "https://nerdear.la/",
     "start_date": "2026-09-22",
     "end_date": "2026-09-27",
     "mode": "Hybrid",
     "location": "Buenos Aires, Argentina",
-    "original_date": "22 - 26th September"
+    "original_date": "22nd - 26th September"
   },
   {
     "name": "Automotive Grade Linux All Member Meeting",
