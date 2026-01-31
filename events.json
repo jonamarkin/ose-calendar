@@ -873,6 +873,15 @@
     "original_date": "8th - 11th August"
   },
   {
+    "name": "JuliaCon 2026",
+    "url": "https://juliacon.org/2026/",
+    "start_date": "2026-08-10",
+    "end_date": "2026-08-16",
+    "mode": "In-person",
+    "location": "Johannes Gutenberg University Mainz, Rhineland Palatinate, Germany",
+    "original_date": "10th - 15th August"
+  },
+  {
     "name": "PyCon Australia",
     "url": "https://2026.pycon.org.au/",
     "start_date": "2026-08-26",
@@ -916,6 +925,15 @@
     "mode": "Hybrid",
     "location": "Aurora, Colorado, USA",
     "original_date": "12th- 18th September"
+  },
+  {
+    "name": "posit::conf(2026)",
+    "url": "https://posit.co/conference/",
+    "start_date": "2026-09-14",
+    "end_date": "2026-09-17",
+    "mode": "Hybrid",
+    "location": "Houston, Texas, USA",
+    "original_date": "14th - 16th September"
   },
   {
     "name": "Nerdearla Argentina",
