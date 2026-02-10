@@ -864,6 +864,15 @@
     "original_date": "29th - 30th July"
   },
   {
+    "name": "UbuCon Asia x COSCUP 2026",
+    "url": "https://coscup.org/2026/en",
+    "start_date": "2026-08-08",
+    "end_date": "2026-08-10",
+    "mode": "In-person",
+    "location": "Taipei, Taiwan",
+    "original_date": "8th - 9th August"
+  },
+  {
     "name": "DefCon Training",
     "url": "https://training.defcon.org/pages/2026-las-vegas-call-for-trainers",
     "start_date": "2026-08-08",
