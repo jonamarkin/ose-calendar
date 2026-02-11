@@ -423,6 +423,15 @@
     "original_date": "23rd March"
   },
   {
+    "name": "UbuCon Kenya 2026",
+    "url": "https://events.canonical.com/event/147/",
+    "start_date": "2026-03-27",
+    "end_date": "2026-03-28",
+    "mode": "In-person",
+    "location": "United States International University - Africa Nairobi, Kenya",
+    "original_date": "27th-28th March"
+  },
+  {
     "name": "Chemnitz Linux Days",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/wasmcon/",
     "start_date": "2026-03-29",
