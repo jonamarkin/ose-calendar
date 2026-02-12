@@ -198,6 +198,15 @@
     "original_date": "2nd - 3rd March"
   },
   {
+    "name": "Python Unplugged",
+    "url": "https://lp.jetbrains.com/python-unplugged/",
+    "start_date": "2026-03-04",
+    "end_date": "2026-03-05",
+    "mode": "Online",
+    "location": "Global (Open to everyone)",
+    "original_date": "4th March"
+  },
+  {
     "name": "SCaLE 23x",
     "url": "https://www.socallinuxexpo.org/scale/23x/",
     "start_date": "2026-03-05",
@@ -799,6 +808,15 @@
     "mode": "In-person",
     "location": "Vienna, Austria",
     "original_date": "22nd - 26th June"
+  },
+  {
+    "name": "Ghana Data Science Summit (IndabaX Ghana)",
+    "url": "https://datasciencenet.org/",
+    "start_date": "2026-06-24",
+    "end_date": "2026-06-27",
+    "mode": "In-person",
+    "location": "Ho Technical University, Volta Region, Ghana",
+    "original_date": "24th - 26th June"
   },
   {
     "name": "Open Source in Finance Forum London",
