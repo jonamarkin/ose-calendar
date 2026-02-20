@@ -882,6 +882,15 @@
     "original_date": "19th July"
   },
   {
+    "name": "PyOhio 2026",
+    "url": "https://www.pyohio.org/2026/",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-27",
+    "mode": "In-person",
+    "location": "Cleveland State University Student Center in Cleveland, Ohio, USA",
+    "original_date": "25th - 26th July"
+  },
+  {
     "name": "KubeCon + CloudNativeCon Japan",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/",
     "start_date": "2026-07-29",
@@ -1033,6 +1042,15 @@
     "mode": "In-person",
     "location": "Prague, Czechia",
     "original_date": "7th - 9th October"
+  },
+  {
+    "name": "PyCon Estonia",
+    "url": "https://pycon.ee/",
+    "start_date": "2026-10-08",
+    "end_date": "2026-10-10",
+    "mode": "In-person",
+    "location": "Tallinn, Estonia",
+    "original_date": "8th - 9th October"
   },
   {
     "name": "Community Over Code (The Apache Software Foundation)",
