@@ -216,6 +216,15 @@
     "original_date": "5th - 8th March"
   },
   {
+    "name": "Women+ in Open Source Day",
+    "url": "https://luma.com/qcqlia4g?tk=TbragU",
+    "start_date": "2026-03-09",
+    "end_date": "2026-03-10",
+    "mode": "In-person",
+    "location": "135 Constitution Dr- Menlo Park, California, USA",
+    "original_date": "9th March"
+  },
+  {
     "name": "FOSSASIA Summit",
     "url": "https://eventyay.com/e/88882f3e",
     "start_date": "2026-03-09",
@@ -540,6 +549,15 @@
     "original_date": "21st - 23rd April"
   },
   {
+    "name": "Django Girls Mombasa",
+    "url": "https://djangogirls.org/en/mombasa/",
+    "start_date": "2026-04-24",
+    "end_date": "2026-04-25",
+    "mode": "In-person",
+    "location": "Mombasa, Kenya",
+    "original_date": "24th April"
+  },
+  {
     "name": "LinuxFest Northwest",
     "url": "https://www.linuxfestnorthwest.org/",
     "start_date": "2026-04-24",
@@ -682,6 +700,15 @@
     "mode": "In-person",
     "location": "Paris-Châtillon, France",
     "original_date": "2nd - 3rd June"
+  },
+  {
+    "name": "PG DATA 2026",
+    "url": "https://2026.pg-data.org/",
+    "start_date": "2026-06-04",
+    "end_date": "2026-06-06",
+    "mode": "In-person",
+    "location": "Loyola University Water Tower Campus in Chicago, Illinois, USA",
+    "original_date": "4th - 5th June"
   },
   {
     "name": "PyData London 2026",
