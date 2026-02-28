@@ -252,6 +252,15 @@
     "original_date": "10th - 12th March"
   },
   {
+    "name": "Workshop: Introduction to Python",
+    "url": "https://www.instagram.com/p/DVGqDFYjNFA/",
+    "start_date": "2026-03-14",
+    "end_date": "2026-03-15",
+    "mode": "In-person",
+    "location": "Oficina do Futuro, Beira, Mozambique",
+    "original_date": "14th March"
+  },
+  {
     "name": "PyConf Hyderabad",
     "url": "https://2026.pyconfhyd.org/",
     "start_date": "2026-03-14",
@@ -304,6 +313,15 @@
     "mode": "In-person",
     "location": "De La Salle University (DLSU), Manila, Philippines",
     "original_date": "21st - 23rd March"
+  },
+  {
+    "name": "Django Girls Maputo 2026",
+    "url": "https://djangogirls.org/maputo/",
+    "start_date": "2026-03-21",
+    "end_date": "2026-03-22",
+    "mode": "In-person",
+    "location": "Inovation Space (Eduardo Mondlane University), Maputo, Mozambique",
+    "original_date": "21st March"
   },
   {
     "name": "George Washington University Open Source Conference (GW OSCON)",
