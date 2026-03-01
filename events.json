@@ -738,6 +738,15 @@
     "original_date": "5th - 7th June"
   },
   {
+    "name": "Hong Kong Open Source Conference (HKOSCon) 2026",
+    "url": "https://discourse.opensource.hk/t/call-for-proposals-hong-kong-open-source-conference-2026-6-june-2026/42",
+    "start_date": "2026-06-06",
+    "end_date": "2026-06-07",
+    "mode": "In-person",
+    "location": "HKIIT Tsing Yi (IVE Tsing Yi Campus), Hong Kong",
+    "original_date": "6th June"
+  },
+  {
     "name": "Berlin Buzzwords",
     "url": "https://2026.berlinbuzzwords.de/",
     "start_date": "2026-06-07",
@@ -927,13 +936,13 @@
     "original_date": "19th July"
   },
   {
-    "name": "PyOhio 2026",
-    "url": "https://www.pyohio.org/2026/",
-    "start_date": "2026-07-25",
-    "end_date": "2026-07-27",
+    "name": "PyData PyCon Yerevan 2026",
+    "url": "https://pycon.am/",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-26",
     "mode": "In-person",
-    "location": "Cleveland State University Student Center in Cleveland, Ohio, USA",
-    "original_date": "25th - 26th July"
+    "location": "Yerevan, Armenia",
+    "original_date": "24th - 25th July"
   },
   {
     "name": "KubeCon + CloudNativeCon Japan",
