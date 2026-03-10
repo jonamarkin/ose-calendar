@@ -603,6 +603,15 @@
     "original_date": "3rd - 5th May"
   },
   {
+    "name": "Replay 2026 |Temporal",
+    "url": "https://replay.temporal.io/",
+    "start_date": "2026-05-05",
+    "end_date": "2026-05-08",
+    "mode": "In-person",
+    "location": "Moscone South - San Francisco, California, USA",
+    "original_date": "5th - 7th May"
+  },
+  {
     "name": "IndabaX Nigeria",
     "url": "https://indabaxng.github.io/",
     "start_date": "2026-05-11",
@@ -1132,6 +1141,15 @@
     "mode": "In-person",
     "location": "Technopolis City of Athens, Athens, Greece",
     "original_date": "12th - 13th October"
+  },
+  {
+    "name": "Joomla! World Conference 2026",
+    "url": "https://conference.joomla.org/",
+    "start_date": "2026-10-16",
+    "end_date": "2026-10-19",
+    "mode": "Hybrid",
+    "location": "Kongresshotel Potsdam, Berlin, Germany",
+    "original_date": "16th - 18th October"
   },
   {
     "name": "All Things Open",
