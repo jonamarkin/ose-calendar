@@ -459,6 +459,15 @@
     "original_date": "23rd March"
   },
   {
+    "name": "OpenChain and Friends 2026",
+    "url": "https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026",
+    "start_date": "2026-03-24",
+    "end_date": "2026-03-26",
+    "mode": "In-person",
+    "location": "Stuttgart, Germany",
+    "original_date": "24th - 25th March"
+  },
+  {
     "name": "UbuCon Kenya 2026",
     "url": "https://events.canonical.com/event/147/",
     "start_date": "2026-03-27",
@@ -988,6 +997,15 @@
     "mode": "In-person",
     "location": "Johannes Gutenberg University Mainz, Rhineland Palatinate, Germany",
     "original_date": "10th - 15th August"
+  },
+  {
+    "name": "Carolina Code Conference",
+    "url": "https://blog.carolina.codes/p/2026-event-details-and-registration",
+    "start_date": "2026-08-14",
+    "end_date": "2026-08-16",
+    "mode": "In-person",
+    "location": "Flywheel Coworking Greenville, South Carolina",
+    "original_date": "14th - 15th August"
   },
   {
     "name": "PyCon Australia",
