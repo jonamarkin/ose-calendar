@@ -486,6 +486,15 @@
     "original_date": "29th - 30th March"
   },
   {
+    "name": "Frappe Build 2026",
+    "url": "https://events.frappe.io/events/frappe-build-2026",
+    "start_date": "2026-04-02",
+    "end_date": "2026-04-04",
+    "mode": "In-person",
+    "location": "Mysore Auditorium, Mumbai",
+    "original_date": "2nd - 3rd April"
+  },
+  {
     "name": "PyTorch Conference Europe",
     "url": "https://events.linuxfoundation.org/pytorch-conference-europe/",
     "start_date": "2026-04-07",
@@ -511,6 +520,15 @@
     "mode": "In-person",
     "location": "Paradise Valley, Scottsdale, Arizona, USA",
     "original_date": "13th - 16th April"
+  },
+  {
+    "name": "Open Source in Finance Forum (OSFF)",
+    "url": "https://events.linuxfoundation.org/open-source-finance-forum-toronto/",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-15",
+    "mode": "In-person",
+    "location": "Toronto, Canada",
+    "original_date": "14th April"
   },
   {
     "name": "PyCon DE & PyData 2026",
@@ -1008,6 +1026,15 @@
     "original_date": "14th - 15th August"
   },
   {
+    "name": "DjangoCon US",
+    "url": "https://2026.djangocon.us/",
+    "start_date": "2026-08-24",
+    "end_date": "2026-08-29",
+    "mode": "Hybrid",
+    "location": "Chicago, Illinois, USA",
+    "original_date": "24th - 28th August"
+  },
+  {
     "name": "PyCon Australia",
     "url": "https://2026.pycon.org.au/",
     "start_date": "2026-08-26",
@@ -1213,6 +1240,15 @@
     "mode": "In-person",
     "location": "New York City, New York, USA",
     "original_date": "4th - 5th November"
+  },
+  {
+    "name": "SeaGL (the Seattle GNU/Linux Conference)",
+    "url": "https://seagl.org/",
+    "start_date": "2026-11-06",
+    "end_date": "2026-11-08",
+    "mode": "In-person & Virtual",
+    "location": "Seattle, Washington, USA",
+    "original_date": "6th - 7th November"
   },
   {
     "name": "Texas Linux Fest",
