@@ -882,6 +882,15 @@
     "original_date": "18th - 19th June"
   },
   {
+    "name": "Beam Summit",
+    "url": "https://sessionize.com/beamsummit-2026/",
+    "start_date": "2026-06-22",
+    "end_date": "2026-06-24",
+    "mode": "In-person",
+    "location": "St",
+    "original_date": "22nd - 23rd June"
+  },
+  {
     "name": "Galaxy Community Conference",
     "url": "https://galaxyproject.org/events/gcc2026/",
     "start_date": "2026-06-22",
