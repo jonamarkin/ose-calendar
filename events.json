@@ -1053,15 +1053,6 @@
     "original_date": "14th - 15th August"
   },
   {
-    "name": "PyCon Togo",
-    "url": "https://pycontg.pytogo.org/",
-    "start_date": "2026-08-21",
-    "end_date": "2026-08-24",
-    "mode": "Hybrid",
-    "location": "Lome, Togo",
-    "original_date": "21st - 23rd August"
-  },
-  {
     "name": "DjangoCon US",
     "url": "https://2026.djangocon.us/",
     "start_date": "2026-08-24",
@@ -1078,6 +1069,15 @@
     "mode": "In-person",
     "location": "Brisbane, Australia",
     "original_date": "26th - 30th August"
+  },
+  {
+    "name": "PyCon Togo",
+    "url": "https://pycon.pytogo.org/",
+    "start_date": "2026-08-28",
+    "end_date": "2026-08-31",
+    "mode": "Hybrid",
+    "location": "Lome, Togo",
+    "original_date": "28th - 30th August"
   },
   {
     "name": "FOSS4G Hiroshima",
@@ -1123,6 +1123,15 @@
     "mode": "Hybrid",
     "location": "Houston, Texas, USA",
     "original_date": "14th - 16th September"
+  },
+  {
+    "name": "PyCon Cameroon + Ubucon Cameroon",
+    "url": "https://cm.pycon.org",
+    "start_date": "2026-09-17",
+    "end_date": "2026-09-20",
+    "mode": "In-person",
+    "location": "Yaounde, Cameroon",
+    "original_date": "17th - 19th September"
   },
   {
     "name": "Nerdearla Argentina",
