@@ -747,6 +747,15 @@
     "original_date": "27th - 30th May"
   },
   {
+    "name": "OpenSearch Project - Milan User Group",
+    "url": "https://www.meetup.com/opensearch-project-milan/events/314314927",
+    "start_date": "2026-05-27",
+    "end_date": "2026-05-28",
+    "mode": "In-person",
+    "location": "Milan, Italy",
+    "original_date": "27th May"
+  },
+  {
     "name": "Neos Conference 2026",
     "url": "https://www.neoscon.io/",
     "start_date": "2026-06-01",
@@ -772,6 +781,15 @@
     "mode": "In-person",
     "location": "Loyola University Water Tower Campus in Chicago, Illinois, USA",
     "original_date": "4th - 5th June"
+  },
+  {
+    "name": "OpenSearch Project - Berlin User Group",
+    "url": "https://www.meetup.com/opensearch-project-berlin/events/314754091",
+    "start_date": "2026-06-05",
+    "end_date": "2026-06-06",
+    "mode": "In-person",
+    "location": "Berlin, Germany",
+    "original_date": "5th June"
   },
   {
     "name": "PyData London 2026",
@@ -817,6 +835,33 @@
     "mode": "Hybrid",
     "location": "Maritim proArte Berlin, Germany",
     "original_date": "8th - 12th June"
+  },
+  {
+    "name": "Retrieve. Remember. Reason – with Women of Search",
+    "url": "https://luma.com/xrf6httx",
+    "start_date": "2026-06-09",
+    "end_date": "2026-06-10",
+    "mode": "In-person",
+    "location": "Berlin, Germany",
+    "original_date": "9th June"
+  },
+  {
+    "name": "OpenSearch Project - Karlsruhe-Pforzheim User Group",
+    "url": "https://www.meetup.com/opensearch-project-pforzheim/events/314037535",
+    "start_date": "2026-06-10",
+    "end_date": "2026-06-11",
+    "mode": "In-person",
+    "location": "Karlsruhe, Germany",
+    "original_date": "10th June"
+  },
+  {
+    "name": "OpenSearch Project - Vienna User Group",
+    "url": "https://www.meetup.com/opensearch-project-vienna/events/314292750/",
+    "start_date": "2026-06-10",
+    "end_date": "2026-06-11",
+    "mode": "In-person",
+    "location": "Vienna, Austria",
+    "original_date": "10th June"
   },
   {
     "name": "Umbraco Codegarden",
@@ -871,6 +916,15 @@
     "mode": "In-person",
     "location": "Brno, Czechia",
     "original_date": "18th - 20th June"
+  },
+  {
+    "name": "OpenSearch Project - Seoul User Group",
+    "url": "https://www.meetup.com/opensearch-project-seoul/events/314710978/",
+    "start_date": "2026-06-18",
+    "end_date": "2026-06-19",
+    "mode": "In-person",
+    "location": "Seoul, Korea",
+    "original_date": "18th June"
   },
   {
     "name": "KubeCon + CloudNativeCon India",
@@ -1114,6 +1168,15 @@
     "mode": "In-person",
     "location": "Shanghai, China",
     "original_date": "8th - 9th September"
+  },
+  {
+    "name": "Zeek Workshop Berkeley 2026",
+    "url": "https://zeek.org/zeek-workshop-berkeley-2026/",
+    "start_date": "2026-09-10",
+    "end_date": "2026-09-12",
+    "mode": "In-person",
+    "location": "Berkeley, California, USA",
+    "original_date": "10th - 11th September"
   },
   {
     "name": "CppCon 2026",
