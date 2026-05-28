@@ -1251,6 +1251,15 @@
     "original_date": "1st October"
   },
   {
+    "name": "Open Source Conference Luxembourg",
+    "url": "https://conference.opensource.lu",
+    "start_date": "2026-10-07",
+    "end_date": "2026-10-08",
+    "mode": "In-person",
+    "location": "Belval, Luxembourg",
+    "original_date": "7th October"
+  },
+  {
     "name": "FlutterCon Europe",
     "url": "https://www.nextappcon.com/fluttercon",
     "start_date": "2026-10-07",
