@@ -1350,6 +1350,15 @@
     "original_date": "21st 23rd October"
   },
   {
+    "name": "SeaGL (the Seattle GNU/Linux Conference)",
+    "url": "https://seagl.org/",
+    "start_date": "2026-10-23",
+    "end_date": "2026-10-25",
+    "mode": "In-person & Virtual",
+    "location": "Seattle, Washington, USA",
+    "original_date": "23rd - 24th October"
+  },
+  {
     "name": "IBM TechXchange",
     "url": "https://www.ibm.com/community/ibm-techxchange-conference/",
     "start_date": "2026-10-26",
@@ -1366,15 +1375,6 @@
     "mode": "In-person",
     "location": "New York City, New York, USA",
     "original_date": "4th - 5th November"
-  },
-  {
-    "name": "SeaGL (the Seattle GNU/Linux Conference)",
-    "url": "https://seagl.org/",
-    "start_date": "2026-11-06",
-    "end_date": "2026-11-08",
-    "mode": "In-person & Virtual",
-    "location": "Seattle, Washington, USA",
-    "original_date": "6th - 7th November"
   },
   {
     "name": "Texas Linux Fest",
