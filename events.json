@@ -1386,6 +1386,15 @@
     "original_date": "6th - 7th November"
   },
   {
+    "name": "OpenFest 2026",
+    "url": "https://openfest.org/2026/en/",
+    "start_date": "2026-11-07",
+    "end_date": "2026-11-09",
+    "mode": "In-person",
+    "location": "Sofia, Bulgaria",
+    "original_date": "7th - 8th November"
+  },
+  {
     "name": "KubeCon + CloudNativeCon North America",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/",
     "start_date": "2026-11-09",
