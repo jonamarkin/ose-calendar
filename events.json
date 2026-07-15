@@ -1422,6 +1422,15 @@
     "original_date": "17th - 19th November"
   },
   {
+    "name": "FOSS for All Conference 2026",
+    "url": "https://2026.fossforall.org/",
+    "start_date": "2026-11-28",
+    "end_date": "2026-11-29",
+    "mode": "In-person",
+    "location": "Seoul, South Korea",
+    "original_date": "28th November"
+  },
+  {
     "name": "Open Source Summit Japan",
     "url": "https://events.linuxfoundation.org/open-source-summit-japan-2026/",
     "start_date": "2026-12-07",
