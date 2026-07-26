@@ -1116,6 +1116,15 @@
     "original_date": "14th - 15th August"
   },
   {
+    "name": "PyCon Ghana",
+    "url": "https://gh.pycon.org/2026/",
+    "start_date": "2026-08-20",
+    "end_date": "2026-08-23",
+    "mode": "In-person",
+    "location": "Accra, Ghana",
+    "original_date": "20th - 22nd August"
+  },
+  {
     "name": "DjangoCon US",
     "url": "https://2026.djangocon.us/",
     "start_date": "2026-08-24",
@@ -1285,6 +1294,15 @@
     "mode": "In-person",
     "location": "Prague, Czechia",
     "original_date": "7th - 9th October"
+  },
+  {
+    "name": "PyCon Africa",
+    "url": "https://africa.pycon.org/",
+    "start_date": "2026-10-07",
+    "end_date": "2026-10-12",
+    "mode": "In-person",
+    "location": "Speke Resort Munyonyo,Kampala Uganda",
+    "original_date": "7th - 11th October"
   },
   {
     "name": "PyCon Estonia",
