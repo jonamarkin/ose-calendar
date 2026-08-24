@@ -1116,6 +1116,15 @@
     "original_date": "14th - 15th August"
   },
   {
+    "name": "Abraka Django Girls Workshop",
+    "url": "https://djangogirls.org/en/abraka/",
+    "start_date": "2026-08-18",
+    "end_date": "2026-08-20",
+    "mode": "In-person",
+    "location": "Hamplus Technologies International [Hamplus Hub], Abraka, Delta State, Nigeria",
+    "original_date": "18th - 19th August"
+  },
+  {
     "name": "PyCon Ghana",
     "url": "https://gh.pycon.org/2026/",
     "start_date": "2026-08-20",
