@@ -1233,12 +1233,30 @@
     "original_date": "22nd - 26th September"
   },
   {
+    "name": "Open Source Hardware Conference",
+    "url": "https://www.oshop-network.de/konferenz-2026/",
+    "start_date": "2026-09-23",
+    "end_date": "2026-09-25",
+    "mode": "In-person",
+    "location": "Halle (Saale), Germany",
+    "original_date": "23rd - 24th September"
+  },
+  {
     "name": "BlenderCon",
     "url": "https://conference.blender.org/2026/",
     "start_date": "2026-09-23",
     "end_date": "2026-09-26",
     "mode": "In-person",
     "location": "Amsterdam, Netherlands",
+    "original_date": "23rd - 25th September"
+  },
+  {
+    "name": "Django on the Med 2026",
+    "url": "https://djangomed.eu/",
+    "start_date": "2026-09-23",
+    "end_date": "2026-09-26",
+    "mode": "In-person",
+    "location": "Pescara, Italy",
     "original_date": "23rd - 25th September"
   },
   {
@@ -1474,5 +1492,14 @@
     "mode": "In-person",
     "location": "Tokyo, Japan",
     "original_date": "10th - 11th December"
+  },
+  {
+    "name": "Southern California Linux Expo - SCaLE 24x",
+    "url": "https://www.socallinuxexpo.org/",
+    "start_date": "2027-04-01",
+    "end_date": "2027-04-02",
+    "mode": "In-person",
+    "location": "Pasadena, CA, USA",
+    "original_date": "1st-4th April, 2027"
   }
 ]
