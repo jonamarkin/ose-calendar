@@ -1494,6 +1494,15 @@
     "original_date": "10th - 11th December"
   },
   {
+    "name": "SciPy India 2026 Conference",
+    "url": "https://scipy.in/2026",
+    "start_date": "2026-12-19",
+    "end_date": "2026-12-21",
+    "mode": "In-person",
+    "location": "Chennai, India",
+    "original_date": "19th - 20th December"
+  },
+  {
     "name": "Southern California Linux Expo - SCaLE 24x",
     "url": "https://www.socallinuxexpo.org/",
     "start_date": "2027-04-01",
