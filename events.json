@@ -1386,6 +1386,15 @@
     "original_date": "20th - 21st October"
   },
   {
+    "name": "Matrix Conference 2026",
+    "url": "https://conference.matrix.org/",
+    "start_date": "2026-10-20",
+    "end_date": "2026-10-24",
+    "mode": "In-person",
+    "location": "Malmö, Sweden",
+    "original_date": "20th - 23st October"
+  },
+  {
     "name": "CityJS Athens",
     "url": "https://greece.cityjsconf.org/?utm_source=cityjs_homecard&utm_medium=card&utm_campaign=card_click",
     "start_date": "2026-10-21",
